@@ -4,11 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-Intuitions and illusions: From explanation and experiment to assessment<br>
-E Fischer, PE Engelhardt, A Herbelot<br>
-Experimental Philosophy, Rationalism, and Naturalism, 267-300<br>
+**Under construction**
+
+Title<br>
+Authors<br>
+Journal<br>
 <hr>
-Intuitions and illusions: From explanation and experiment to assessment<br>
-E Fischer, PE Engelhardt, A Herbelot<br>
-Experimental Philosophy, Rationalism, and Naturalism, 267-300<br>
+Title<br>
+Authors<br>
+Journal<br>
 <hr>

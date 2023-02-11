@@ -1,3 +1,3 @@
-# Peer Press
+# Personal site
 
-The Peer Press site, created using [Jekyll Now](https://github.com/barryclark/jekyll-now).
+Personal site, created using [Jekyll Now](https://github.com/barryclark/jekyll-now).

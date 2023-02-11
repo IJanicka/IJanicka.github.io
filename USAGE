@@ -1,0 +1,5 @@
+bundle init
+bundle install
+jekyll new . --force
+
+bundle exec jekyll serve

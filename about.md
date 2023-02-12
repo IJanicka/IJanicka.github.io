@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Iwona Janicka
+title: About me
 permalink: /about/
 ---
 

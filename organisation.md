@@ -13,7 +13,7 @@ permalink: /organisation/
 
 
 **Co-organizer of an international conference in contemporary French philosophy (organising committee)**<br>
-13th Annual Deleuze & Guattari Conference: *Territorialities, Exterritorialities, Non-Territorialities*, keynotes: Etienne Balibar, Barbara Glowczewski and Eric Alliez, The Czech Academy of Sciences, Prague, 5-7 July 2021 (online with almost 200 speakers)
+13th Annual Deleuze & Guattari Conference: *Territorialities, Exterritorialities, Non-Territorialities* (with Petr Kouba), keynotes: Etienne Balibar, Barbara Glowczewski and Eric Alliez, The Czech Academy of Sciences, Prague, 5-7 July 2021 (online with almost 200 speakers)
 
 
 **Co-organizer of a workshop on interdisciplinary research**<br>
@@ -22,7 +22,7 @@ permalink: /organisation/
 **Co-organizer of an interdisciplinary workshop in French and German philosophy**<br>
 *Accueil, hospitalité, espace(s) politiques. Atelier transversal franco-allemand* [Welcoming, hospitality, political spaces. French-German interdisciplinary workshop] (with Claire Mélot and Sara Minelli), Centre Marc Bloch, Berlin, Germany, 25th October 2019
 
-**Principal organizer of a focus group (academic and non-academic) on speculative design** <br>
+**Principal organizer of a focus group on speculative design (academic and non-academic)** <br>
 *Speculative Design and its Wider Application*, Institute of Advanced Study, University of Warwick, UK, 14 May 2019
 
 **Co-organizer of an interdisciplinary workshop in design**<br>
@@ -31,6 +31,6 @@ permalink: /organisation/
 **Principal organizer of an international conference in posthumanities**<br>
 *Nonhumans and Politics. International Conference on Non-Anthropocentric Perspectives on Politics*, Hosted and funded by Forschungsinstitut für Philosophie Hannover, Germany, 22-23 January 2016
 
-**Co-organizer for international workshop in social movements**<br>
+**Co-organizer of an international workshop in social movements**<br>
 *Anarchism and Technê. Techniques and Technologies of Transformative Practices*, Institut für Protest- und Bewegungsforschung [Research Institute for Protest and Social Movements] (with Almut Woller), Zentrum für Technik und Wissenschaft, Technische Universität Berlin, Germany, 12 July 2015
 

@@ -4,10 +4,10 @@ title: Talks
 permalink: /talks/
 ---
 
-<p>
 <br>
 <br>
 **INVITED TALKS**<br>	
+  
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion”, Prešov, Slovakia, 2023<br>
 
 * “What Universality? Cosmopolitics and its Guises”, *Becoming Planetary as a Challenge*, Goethe-University, Frankfurt am Main, Germany, 6-8 October 2022<br>
@@ -39,37 +39,37 @@ permalink: /talks/
 <br>
 **CONFERENCE PAPERS**<br>
   
-* “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” Anarchist Studies Network Conference, Loughborough University, 12–14 September 2018<br>
+* “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” *Anarchist Studies Network* Conference, Loughborough University, UK, 12–14 September 2018<br>
   
-* “Solidarity with Singularity and Anarchist Collectives,” The Politics of Plasticity: On Solidarity and Mutual Aid with Catherine Malabou, The Czech Academy of Sciences, Prague, 23–24 February 2018<br>
+* “Solidarity with Singularity and Anarchist Collectives,” *The Politics of Plasticity: On Solidarity and Mutual Aid with Catherine Malabou*, The Czech Academy of Sciences, Prague, 23–24 February 2018<br>
   
 * “La Politique à venir. Political Practice and the New Materialism,” Research Seminar, Forschungsinstitut für Philosophie Hannover, Germany, 9 June 2016<br>
   
-* “The Contours of a Political Subject. Jacques Rancière’s Concept of Politics and the Nonhumans,” Nonhumans & Politics. An International Conference on Non-Anthropocentric Perspectives on Politics, Forschungsinstitut für Philosophie Hannover, Germany, 22 January 2016<br>
+* “The Contours of a Political Subject. Jacques Rancière’s Concept of Politics and the Nonhumans,” *Nonhumans & Politics*. An International Conference on Non-Anthropocentric Perspectives on Politics, Forschungsinstitut für Philosophie Hannover, Germany, 22 January 2016<br>
   
-* “Politics as Aesthetics. The Potential of Jacques Rancière’s Aesthetic Turn for Posthumanism,” Conference: Aesthetics, Ethics and Biopolitics of the Posthuman Aarhus University, Denmark, 11 December 2015<br>
+* “Politics as Aesthetics. The Potential of Jacques Rancière’s Aesthetic Turn for Posthumanism,” Conference: *Aesthetics, Ethics and Biopolitics of the Posthuman*, Aarhus University, Denmark, 11 December 2015<br>
   
-* “Housing Projects as Affirmative Forms of Social Change” CRAG Conference: “Creation of Reality”: Towards an Interdisciplinary and Comprehensive Understanding, University of Edinburgh, UK, 3 December 2015<br>
+* “Housing Projects as Affirmative Forms of Social Change,” CRAG Conference: *“Creation of Reality”: Towards an Interdisciplinary and Comprehensive Understanding*, University of Edinburgh, UK, 3 December 2015<br>
   
-* “Beyond Critique? Anarchist Practice as an Affirmative Orientation of Habits”, The Future of Critique and Emancipatory Practice: An Interdisciplinary Conference on Critical Theory, European University Institute, Florence, Italy, 30 October 2015<br>
+* “Beyond Critique? Anarchist Practice as an Affirmative Orientation of Habits”, *The Future of Critique and Emancipatory Practice: An Interdisciplinary Conference on Critical Theory*, European University Institute, Florence, Italy, 30 October 2015<br>
   
-* “Homo immunologicus: Humans as Designers of Symbolic Immune Systems,” ADEFFI 17th Annual Conference: Systèmes/Systems, University of Limerick, Ireland, 17 October 2015.<br>
+* “Homo immunologicus: Humans as Designers of Symbolic Immune Systems,” ADEFFI 17th Annual Conference: *Systèmes/Systems*, University of Limerick, Ireland, 17 October 2015.<br>
   
-* “Atmospheres & Air Conditions. What it Means to Consider Air from a Philosophical Perspective,” Conference: Forms to Experience the Environment. Theory, Experience, Aesthetics and Political Criticism, L’Ecole des Hautes Etudes en Sciences Sociales (EHESS) Paris, France. 1 October 2015<br>
+* “Atmospheres & Air Conditions. What it Means to Consider Air from a Philosophical Perspective,” Conference: *Forms to Experience the Environment. Theory, Experience, Aesthetics and Political Criticism*, L’Ecole des Hautes Etudes en Sciences Sociales (EHESS) Paris, France. 1 October 2015<br>
   
 * “The Limits of Posthumanism. How to Translate Ontology into Politics?” Research Seminar, Forschungsinstitut für Philosophie Hannover, 4 June 2015<br>
   
-* “How About Solidarity? Contemporary Social Movements in a Philosophical Framework.” Workshop Riots IV – Riots and Anarchy, Institut für Protest- und Bewegungsforschung [Research Institute for Protest and Social Movements], Zentrum für Technik und Wissenschaft, TU Berlin, Germany, 28 November 2014<br>
+* “How About Solidarity? Contemporary Social Movements in a Philosophical Framework.” Workshop Riots IV – *Riots and Anarchy*, Institut für Protest- und Bewegungsforschung [Research Institute for Protest and Social Movements], Zentrum für Technik und Wissenschaft, TU Berlin, Germany, 28 November 2014<br>
   
-* “Points of Departure – Points of no Return. Peter Sloterdijk’s Negative Gynaecology and its Potential for Constructing Non-Anthropocentric Frameworks.” ADEFFI 16th Annual Conference 2014: Origins, Trinity College Dublin, Ireland, 17 October 2014<br>
+* “Points of Departure – Points of no Return. Peter Sloterdijk’s Negative Gynaecology and its Potential for Constructing Non-Anthropocentric Frameworks.” ADEFFI 16th Annual Conference 2014: *Origins*, Trinity College Dublin, Ireland, 17 October 2014<br>
   
 * “Is There an Anarchist in This Closet? Understanding Contemporary Anarchism with Judith Butler and Peter Sloterdijk.” *Enlightened Anarchism* Conference, Lapland University, Finland, 13 September 2014<br>
   
-* “The Most French of the German Philosophers: Peter Sloterdijk’s Borderless Theory of Foams and Bubbles.” Frontiers Conference: French Theory in the Twentieth and Twenty-First Centuries. University of Oxford, UK, 8 July 2013.<br>
+* “The Most French of the German Philosophers: Peter Sloterdijk’s Borderless Theory of Foams and Bubbles.” Frontiers Conference: *French Theory in the Twentieth and Twenty-First Centuries*. University of Oxford, UK, 8 July 2013.<br>
   
-* “Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis.” Altered Self and Altered Self-Experience International Workshop. New University of Lisbon, Portugal, 30 May 2013<br>
+* “Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis.” *Altered Self and Altered Self-Experience* International Workshop. New University of Lisbon, Portugal, 30 May 2013<br>
   
-* “Why Equality is No Good – Judith Butler and Politics of Asymmetry.” Graduate Political Theory Conference: The Politics of Equality. University of Oxford, UK, 25 April 2013<br>
+* “Why Equality is No Good – Judith Butler and Politics of Asymmetry.” Graduate Political Theory Conference: *The Politics of Equality*. University of Oxford, UK, 25 April 2013<br>
 <br>
 <br>
 **DEPARTMENTAL TALKS**	

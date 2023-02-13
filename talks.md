@@ -71,8 +71,8 @@ permalink: /talks/
 * “Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis,” *Altered Self and Altered Self-Experience* International Workshop. New University of Lisbon, Portugal, 30 May 2013<br>
   
 * “Why Equality is No Good – Judith Butler and Politics of Asymmetry,” Graduate Political Theory Conference: *The Politics of Equality*. University of Oxford, UK, 25 April 2013<br>
-<br>
-<br>
+
+
 **DEPARTMENTAL TALKS**	
 
 * “World-Building. Towards a Constructive Notion of Philosophy,” *AIAS Seminar*, Aarhus Institute of Advanced Studies, Denmark, 7 December 2020<br>

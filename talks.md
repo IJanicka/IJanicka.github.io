@@ -4,8 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
-<br>
-<br>
+
+
 **INVITED TALKS**<br>	
   
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion”, Prešov, Slovakia, 2023<br>
@@ -35,8 +35,9 @@ permalink: /talks/
 * “In Schäumen Schweben: Sphärische Immunsysteme und ihr Potential für den Neo-Materialismus,” [Floating in Foams: Spherological Immune System and its Potential for Neo-Materialism], Forschungsinstitut für Philosophie Hannover, Germany, 2 June 2015<br> 
 
 * “Critique vs. Affirmation: Foucault, Sloterdijk and the Possibilities of Formulating an Affirmative Theory after Poststructuralism,” Forschungsinstitut für Philosophie Hannover, Germany, 4 December 2014<br>
-<br>
-<br>
+
+
+
 **CONFERENCE PAPERS**<br>
   
 * “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” *Anarchist Studies Network* Conference, Loughborough University, UK, 12–14 September 2018<br>

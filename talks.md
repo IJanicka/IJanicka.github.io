@@ -4,7 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
-
+<p>
+  
 **INVITED TALKS**<br>	
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion”, Prešov, Slovakia, 2023<br>
 

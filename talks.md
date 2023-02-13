@@ -34,3 +34,32 @@ permalink: /talks/
 * “In Schäumen Schweben: Sphärische Immunsysteme und ihr Potential für den Neo-Materialismus,” [Floating in Foams: Spherological Immune System and its Potential for Neo-Materialism], Forschungsinstitut für Philosophie Hannover, Germany, 2 June 2015<br> 
 
 * “Critique vs. Affirmation: Foucault, Sloterdijk and the Possibilities of Formulating an Affirmative Theory after Poststructuralism,” Forschungsinstitut für Philosophie Hannover, Germany, 4 December 2014<br>
+
+  
+**CONFERENCE PAPERS**<br>
+  
+2018	“Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” Anarchist Studies Network Conference, Loughborough University, September 12–14.
+2018 	“Solidarity with Singularity and Anarchist Collectives,” The Politics of Plasticity: On Solidarity and Mutual Aid with Catherine Malabou, The Czech Academy of Sciences, Prague, February 23–24.
+2016	“La Politique à venir. Political Practice and the New Materialism,” Research Seminar, Forschungsinstitut für Philosophie Hannover, Germany, June 9.
+2016	“The Contours of a Political Subject. Jacques Rancière’s Concept of Politics and the Nonhumans,” Nonhumans & Politics. An International Conference on Non-Anthropocentric Perspectives on Politics, Forschungsinstitut für Philosophie Hannover, Germany, January 22.
+2015 	“Politics as Aesthetics. The Potential of Jacques Rancière’s Aesthetic Turn for Posthumanism,” Conference: Aesthetics, Ethics and Biopolitics of the Posthuman Aarhus University, Denmark, December 11.
+2015 	“Housing Projects as Affirmative Forms of Social Change” CRAG Conference: “Creation of Reality”: Towards an Interdisciplinary and Comprehensive Understanding, University of Edinburgh, UK, December 3.
+2015	 “Beyond Critique? Anarchist Practice as an Affirmative Orientation of Habits”, The Future of Critique and Emancipatory Practice: An Interdisciplinary Conference on Critical Theory, European University Institute, Florence, Italy, October 30.
+2015	 “Homo immunologicus: Humans as Designers of Symbolic Immune Systems,” ADEFFI 17th Annual Conference: Systèmes/Systems, University of Limerick, Ireland, October 17.
+2015 	“Atmospheres & Air Conditions. What it Means to Consider Air from a Philosophical Perspective,” Conference: Forms to Experience the Environment. Theory, Experience, Aesthetics and Political Criticism, L’Ecole des Hautes Etudes en Sciences Sociales (EHESS) Paris, France. October 1.
+2015 	“The Limits of Posthumanism. How to Translate Ontology into Politics?” Research Seminar, Forschungsinstitut für Philosophie Hannover, June 4.
+2014 	“How About Solidarity? Contemporary Social Movements in a Philosophical Framework.” Workshop Riots IV – Riots and Anarchy, Institut für Protest- und Bewegungsforschung [Research Institute for Protest and Social Movements], Zentrum für Technik und Wissenschaft, TU Berlin, Germany, November 28.
+2014 	“Points of Departure – Points of no Return. Peter Sloterdijk’s Negative Gynaecology and its Potential for Constructing Non-Anthropocentric Frameworks.” ADEFFI 16th Annual Conference 2014: Origins, Trinity College Dublin, Ireland, October 17.
+2014		“Is There an Anarchist in This Closet? Understanding Contemporary Anarchism with Judith       		Butler and Peter Sloterdijk.” Enlightened Anarchism Conference, Lapland University, 	 		 Finland, September 13.
+2013 	“The Most French of the German Philosophers: Peter Sloterdijk’s Borderless Theory of Foams and Bubbles.” Frontiers Conference: French Theory in the Twentieth and Twenty-First Centuries. University of Oxford, UK, July 8.
+2013 	“Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis.” Altered Self and Altered Self-Experience International Workshop. New University of Lisbon, Portugal, May 30.
+2013 	“Why Equality is No Good – Judith Butler and Politics of Asymmetry.” Graduate Political Theory Conference: The Politics of Equality. University of Oxford, UK, April 25.
+
+DEPARTMENTAL TALKS	
+2020		“World-Building. Towards a Constructive Notion of Philosophy” AIAS Seminar, Aarhus 	     		Institute of Advanced Studies, Denmark, 7 December.
+2018 		“Postkritik: Philosophische Konturen eines Begriffs” [Postcritique: Contours of a 		 		Philosophical Concept] Centre Marc Bloch, Berlin, Germany, 12 December.
+2017		Book discussion of Elettra Stimilli’s The Debt of the Living (SUNY Press, 2017), in  			conversation with Elettra Stimilli (Roma La Sapienza) and Antonio Cerella (Kingston),  			University of Warwick, May 4.
+2017	“Magnetisers, Hypnotists and Magic Hands: Philosophical Perspectives on Pseudoscience from the Renaissance until Today”, Short papers with Cecilia Muratori and Alessandra Aloisi (Italian Studies); SMLC Lunch Time Research Seminar, March 7.
+2013 	“Solidarity with Singularity and Contemporary Anarchism.” French Graduate Research Seminar. University of Cambridge, UK, December 3.
+2012 	“Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work.” French Graduate Research Seminar. University of Cambridge, UK, November 27.
+2009 	“Autobiography – a Theoretical Encounter between Paul de Man and Jean Améry.” German Graduate Research Seminar. University of Cambridge, UK, March 9.

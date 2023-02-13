@@ -85,6 +85,6 @@ permalink: /talks/
 
 * “Solidarity with Singularity and Contemporary Anarchism,” *French Graduate Research Seminar* University of Cambridge, UK, 3 December 2013<br>
 
-* “Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work.” *French Graduate Research Seminar*, University of Cambridge, UK, 27 November 2012<br>
+* “Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work,” *French Graduate Research Seminar*, University of Cambridge, UK, 27 November 2012<br>
 
 * “Autobiography – a Theoretical Encounter between Paul de Man and Jean Améry,” *German Graduate Research Seminar*, University of Cambridge, UK, 9 March 2009<br>

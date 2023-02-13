@@ -5,7 +5,7 @@ permalink: /organisation/
 ---
 
 
-I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them were fully funded by various institutions.
+I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them were generously supported by various institutions and foundations.
 
 **Co-organizer of an international conference in environmental humanities**<br>
 *[Earth Sensations](https://aias.au.dk/events/earth-sensations): Affects, Sensibilities and Attachments in an Era of Climate Change* (with Tobias Skiveren), keynotes: [Jane Bennett](https://politicalscience.jhu.edu/directory/jane-bennett/), [Alexis Shotwell](https://alexisshotwell.com), [Nicole Seymour](https://english.fullerton.edu/faculty/profile/n_seymour.aspx); Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University)

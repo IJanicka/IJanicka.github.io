@@ -20,7 +20,7 @@ permalink: /organisation/
 *The Role of Research in Modern Society: Driven by Mission or by Curiosity?* (with Peter Andersen), Aarhus Institute of Advanced Studies, Aarhus University, Denmark, 24-25 June 2021
 
 **Co-organizer of an interdisciplinary workshop in French and German philosophy**<br>
-*Accueil, hospitalité, espace(s) politiques. Atelier transversal franco-allemand* [Welcoming, hospitality, political spaces. French-German interdisciplinary workshop] (with Claire Mélot and Sara Minelli), Centre Marc Bloch, Berlin, Germany, 25th October 2019
+*Accueil, hospitalité, espace(s) politiques. Atelier transversal franco-allemand* [Welcoming, hospitality, political spaces. French-German interdisciplinary workshop] (with Claire Mélot and Sara Minelli), Centre Marc Bloch, Berlin, Germany, 25 October 2019
 
 **Principal organizer of a focus group on speculative design (academic and non-academic)** <br>
 *Speculative Design and its Wider Application*, Institute of Advanced Study, University of Warwick, UK, 14 May 2019

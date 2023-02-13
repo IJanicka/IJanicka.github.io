@@ -8,7 +8,7 @@ permalink: /talks/
 **INVITED TALKS**<br>	
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion”, Prešov, Slovakia, 2023<br>
 
-* “What Universality? Cosmopolitics and its Guises”, *Becoming Planetary as a Challenge*, Goethe-University, Frankfurt am Main, 6-8 October 6-8 2022<br>
+* “What Universality? Cosmopolitics and its Guises”, *Becoming Planetary as a Challenge*, Goethe-University, Frankfurt am Main, 6-8 October 2022<br>
 
 * “Slow Social Transformation: How Radical Can It Get?” Global Klimaaktion, Aarhus, 13 April 2022<br>
 

@@ -21,9 +21,9 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   <h2>Journal Articles</h2>
   <a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf">la lala la la ll</a><br>
   
-* “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)<br>
+*  “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)<br>
   
-* “Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,” (forthcoming in *Theory, Culture & Society*)<br> 
+*  “Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,” (forthcoming in *Theory, Culture & Society*)<br> 
   
 *	[“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”](https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765) *Textual Practice* (2022), doi: 10.1080/0950236X.2022.2056765<br> 
   

@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 
-
+</div>
 **INVITED TALKS**<br>	
   
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” Prešov, Slovakia, 2023<br>
@@ -36,7 +36,7 @@ permalink: /talks/
 
 * “Critique vs. Affirmation: Foucault, Sloterdijk and the Possibilities of Formulating an Affirmative Theory after Poststructuralism,” Forschungsinstitut für Philosophie Hannover, Germany, 4 December 2014<br>
 
-
+<div/>
 
 **CONFERENCE PAPERS**<br>
   
@@ -72,6 +72,7 @@ permalink: /talks/
   
 * “Why Equality is No Good – Judith Butler and Politics of Asymmetry,” Graduate Political Theory Conference: *The Politics of Equality*. University of Oxford, UK, 25 April 2013<br>
 
+<div/>
 
 **DEPARTMENTAL TALKS**	
 

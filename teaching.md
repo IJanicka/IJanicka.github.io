@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-My teaching experience includes introductory courses and advanced seminars in contemporary European philosophy, feminism and gender theory, environmental humanities and aesthetics.
+My teaching experience includes introductory courses and advanced seminars in contemporary European philosophy, feminism & gender theory, environmental humanities and aesthetics.
 
 **Aarhus University, Denmark**<br>
 Women and Nature: Ecofeminism in Theory and Practice (designed, 2022–23)

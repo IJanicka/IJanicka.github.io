@@ -27,7 +27,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 *	[“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”](https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765) *Textual Practice* (2022), doi: 10.1080/0950236X.2022.2056765 
   
-*	<a href="../Iwona Janicka_Who Can Speak?Ranciere, Latour and Articulation_Humanities_2020">“Who Can Speak? Rancière, Latour and the Question of Articulation,” *Humanities* 9.4 (2020): 123. doi.org/10.3390/h9040123</a>
+*	<a href="../Iwona Janicka_Who Can Speak?Ranciere, Latour and Articulation_Humanities_2020">“Who Can Speak? Rancière, Latour and the Question of Articulation,” *Humanities* 9.4 (2020): 123. doi.org/10.3390/h9040123 </a>
   
 *	<a href="../Iwona Janicka_A New Way To Suffer_Contagion_2019“>"A New Way to Suffer: Girard, Rancière and Political Subjectification,” *Contagion: Journal of Violence, Mimesis, and Culture* 26: Spring (2019), 161–78.</a>
   

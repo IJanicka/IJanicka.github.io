@@ -21,27 +21,27 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   <h2>Journal Articles</h2>
   <a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf">la lala la la ll</a>
   
-* “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans” (forthcoming in Parrhesia: A Journal of Critical Philosophy)
+* “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)
   
-* “Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot” (forthcoming in Theory, Culture & Society) 
+* “Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,” (forthcoming in *Theory, Culture & Society*) 
   
-*	[“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”](https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765) Textual Practice (2022), doi: 10.1080/0950236X.2022.2056765 
+*	[“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”](https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765) *Textual Practice* (2022), doi: 10.1080/0950236X.2022.2056765 
   
-*	<a href="../Iwona Janicka_Who Can Speak?Ranciere, Latour and Articulation_Humanities_2020">“Who Can Speak? Rancière, Latour and the Question of Articulation.” Humanities 9.4 (2020): 123. doi.org/10.3390/h9040123</a>
+*	<a href="../Iwona Janicka_Who Can Speak?Ranciere, Latour and Articulation_Humanities_2020">“Who Can Speak? Rancière, Latour and the Question of Articulation,” *Humanities* 9.4 (2020): 123. doi.org/10.3390/h9040123</a>
   
-*	“A New Way to Suffer: Girard, Rancière and Political Subjectification.” Contagion: Journal of Violence, Mimesis, and Culture 26: Spring (2019), 161–78.
+*	<a href="../Iwona Janicka_A New Way To Suffer_Contagion_2019“>"A New Way to Suffer: Girard, Rancière and Political Subjectification,” *Contagion: Journal of Violence, Mimesis, and Culture* 26: Spring (2019), 161–78.</a>
   
-*	“Über das Astronomische und das Mikroskopische: Sloterdijk und die Frage des Ausmaßes” [Scaling up, Scaling down: Sloterdijk and Grand Narratives], Pro-Fil: An Internet Journal of Philosophy (Special Issue, 2017), 18–23. Doi.org/10.5817/pf17-3-1647 
+*	“Über das Astronomische und das Mikroskopische: Sloterdijk und die Frage des Ausmaßes,” [Scaling up, Scaling down: Sloterdijk and Grand Narratives], *Pro-Fil: An Internet Journal of Philosophy* (Special Issue, 2017), 18–23. Doi.org/10.5817/pf17-3-1647 
   
-*	“Are These Bubbles Anarchist? Peter Sloterdijk’s Spherology and the Question of Anarchism.” Anarchist Studies 24.1 (2016), 62–84.
+*	<a href="../Iwona Janicka_Are These Bubbles Anarchist_Anarchist Studies 24.1._2016">“Are These Bubbles Anarchist? Peter Sloterdijk’s Spherology and the Question of Anarchism,” *Anarchist Studies* 24.1 (2016), 62–84.</a>
   
-*	“Queering Girard – De-Freuding Butler. A Theoretical Encounter between Judith Butler’s Gender Performativity and René Girard’s Mimetic Theory.” Contagion: Journal of Violence, Mimesis, and Culture 22 (2015), 43–64. 
+*	<a href="../Iwona Janicka_Queering Girard, De-Freuding Butler_Contagion_2015">“Queering Girard – De-Freuding Butler. A Theoretical Encounter between Judith Butler’s Gender Performativity and René Girard’s Mimetic Theory,” *Contagion: Journal of Violence, Mimesis, and Culture* 22 (2015), 43–64.</a> 
   
-*	“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870).” Romanica Silesiana. Gendered Constructions 8 (2013), 138–150.
+*	<a href="../Iwona Janicka_Homosocial bonds and narrative strategies_Romanica Silesiana_2013">“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870).” *Romanica Silesiana. Gendered Constructions* 8 (2013), 138–150.</a>
   
-*	“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler.” Paragraph: A Journal of Modern Critical Theory 36.3 (2013), 361–75.
+*	<a href="../Iwona Janicka_Hegel on a Carrousel_Paragraph_ Nov 2013">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler.” Paragraph: A Journal of Modern Critical Theory 36.3 (2013), 361–75.</a>
   
-*	“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe.” Welt der Slaven: Internationale Halbjahresschrift für Slavistik LV (2010), 45–66. 
+*	<a href="../Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe.” Welt der Slaven: Internationale Halbjahresschrift für Slavistik LV (2010), 45–66.</a> 
 
   
 </div>

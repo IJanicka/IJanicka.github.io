@@ -13,7 +13,7 @@ permalink: /organisation/
 
 
 **Co-organizer of an international conference in contemporary French philosophy (organising committee)**<br>
-13th Annual Deleuze & Guattari Conference: *Territorialities, Exterritorialities, Non-Territorialities* (with Petr Kouba), keynotes: Etienne Balibar, Barbara Glowczewski and Eric Alliez, The Czech Academy of Sciences, Prague, 5-7 July 2021 (online with almost 200 speakers)
+13th Annual Deleuze & Guattari Conference: *Territorialities, Exterritorialities, Non-Territorialities* (with Petr Kouba), keynotes: [Etienne Balibar](https://www.kingston.ac.uk/staff/profile/professor-etienne-balibar-408/), [Barbara Glowczewski](http://las.ehess.fr/index.php?1716) and [Eric Alliez](https://www.kingston.ac.uk/staff/profile/professor-eric-alliez-417/), The Czech Academy of Sciences, Prague, 5-7 July 2021 (online with almost 200 speakers)
 
 
 **Co-organizer of a workshop on interdisciplinary research**<br>

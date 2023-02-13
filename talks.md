@@ -74,10 +74,17 @@ permalink: /talks/
 <br>
 <br>
 **DEPARTMENTAL TALKS**	
-2020		“World-Building. Towards a Constructive Notion of Philosophy” AIAS Seminar, Aarhus 	     		Institute of Advanced Studies, Denmark, 7 December.
-2018 		“Postkritik: Philosophische Konturen eines Begriffs” [Postcritique: Contours of a 		 		Philosophical Concept] Centre Marc Bloch, Berlin, Germany, 12 December.
-2017		Book discussion of Elettra Stimilli’s The Debt of the Living (SUNY Press, 2017), in  			conversation with Elettra Stimilli (Roma La Sapienza) and Antonio Cerella (Kingston),  			University of Warwick, May 4.
-2017	“Magnetisers, Hypnotists and Magic Hands: Philosophical Perspectives on Pseudoscience from the Renaissance until Today”, Short papers with Cecilia Muratori and Alessandra Aloisi (Italian Studies); SMLC Lunch Time Research Seminar, March 7.
-2013 	“Solidarity with Singularity and Contemporary Anarchism.” French Graduate Research Seminar. University of Cambridge, UK, December 3.
-2012 	“Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work.” French Graduate Research Seminar. University of Cambridge, UK, November 27.
-2009 	“Autobiography – a Theoretical Encounter between Paul de Man and Jean Améry.” German Graduate Research Seminar. University of Cambridge, UK, March 9.
+
+* “World-Building. Towards a Constructive Notion of Philosophy” AIAS Seminar, Aarhus Institute of Advanced Studies, Denmark, 7 December 2020<br>
+ 
+* “Postkritik: Philosophische Konturen eines Begriffs” [Postcritique: Contours of a 		 		Philosophical Concept] Centre Marc Bloch, Berlin, Germany, 12 December 2018<br>
+
+* Book discussion of Elettra Stimilli’s The Debt of the Living (SUNY Press, 2017), in  			conversation with Elettra Stimilli (Roma La Sapienza) and Antonio Cerella (Kingston),  			University of Warwick, 4 May 2017.<br>
+
+* “Magnetisers, Hypnotists and Magic Hands: Philosophical Perspectives on Pseudoscience from the Renaissance until Today”, Short papers with Cecilia Muratori and Alessandra Aloisi (Italian Studies); SMLC Lunch Time Research Seminar, 7 March 2017<br>
+
+* “Solidarity with Singularity and Contemporary Anarchism.” French Graduate Research Seminar. University of Cambridge, UK, 3 December 2013<br>
+
+* “Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work.” French Graduate Research Seminar. University of Cambridge, UK, 27 November 2012<br>
+
+* “Autobiography – a Theoretical Encounter between Paul de Man and Jean Améry.” German Graduate Research Seminar. University of Cambridge, UK, 9 March 2009<br>

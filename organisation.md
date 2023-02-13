@@ -9,7 +9,7 @@ permalink: /organisation/
 [webpage](https://www.bloomsbury.com/uk/theorizing-contemporary-anarchism-9781474276191/)
 
 **Co-organizer of an international conference in environmental humanities**<br>
-*Earth Sensations: Affects, Sensibilities and Attachments in an Era of Climate Change* (with Tobias Skiveren), keynotes: Jane Bennett, Alexis Shotwell, Nicole Seymour; Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University)
+*[Earth Sensations](https://aias.au.dk/events/earth-sensations): Affects, Sensibilities and Attachments in an Era of Climate Change* (with Tobias Skiveren), keynotes: Jane Bennett, Alexis Shotwell, Nicole Seymour; Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University)
 
 
 **Co-organizer of an international conference in contemporary French philosophy (organising committee)**<br>

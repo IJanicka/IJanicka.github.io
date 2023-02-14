@@ -56,7 +56,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 * [“Anarchism.”](https://link.springer.com/referenceworkentry/10.1007/978-94-007-6730-0_1081-1) *Encyclopaedia of the Philosophy of Law and Social Philosophy*, eds. Mortimer Sellers, Stephan Kirste, Dordrecht: Springer (2023) doi.org/10.1007/978-94-007-6730-0_1081-1<br>
 <br>
 
-  <h2>Book reviews</h2>
+ <h2>Book reviews</h2>
 
 * <a href="../Review by Iwona Janicka_Carlos Taibo_Rethining Anarchy_Anarchist Studies 30.2_2022">Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* (AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<a/><br>
 

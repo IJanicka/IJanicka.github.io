@@ -17,7 +17,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </p>
     </div>
   </div>
-
+</div>
   <h2>Journal Articles</h2>
   <a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf">la lala la la ll</a><br>
   
@@ -44,6 +44,6 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 *	<a href="../Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe.” *Welt der Slaven: Internationale Halbjahresschrift für Slavistik* LV (2010), 45–66.</a><br> 
 
   
-</div>
+
 
 * "jljslj" *text*

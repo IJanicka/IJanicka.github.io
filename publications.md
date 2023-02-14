@@ -18,7 +18,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
     </div>
   </div>
 </div>
-  <h2>Journal Articles</h2>
+  <h2>Journal articles</h2>
   <a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf">la lala la la ll</a><br>
   
 *  “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)<br>
@@ -37,13 +37,18 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 *	<a href="../Iwona Janicka_Queering Girard, De-Freuding Butler_Contagion_2015">“Queering Girard – De-Freuding Butler. A Theoretical Encounter between Judith Butler’s Gender Performativity and René Girard’s Mimetic Theory,” *Contagion: Journal of Violence, Mimesis, and Culture* 22 (2015), 43–64.</a><br> 
   
-*	<a href="../Iwona Janicka_Homosocial bonds and narrative strategies_Romanica Silesiana_2013">“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870).” *Romanica Silesiana. Gendered Constructions* 8 (2013), 138–150.</a><br>
+*	<a href="../Iwona Janicka_Homosocial bonds and narrative strategies_Romanica Silesiana_2013">“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870),” *Romanica Silesiana. Gendered Constructions* 8 (2013), 138–150.</a><br>
   
-*	<a href="../Iwona Janicka_Hegel on a Carrousel_Paragraph_ Nov 2013">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler.” *Paragraph: A Journal of Modern Critical Theory* 36.3 (2013), 361–75.</a><br>
+*	<a href="../Iwona Janicka_Hegel on a Carrousel_Paragraph_ Nov 2013">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler,” *Paragraph: A Journal of Modern Critical Theory* 36.3 (2013), 361–75.</a><br>
   
-*	<a href="../Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe.” *Welt der Slaven: Internationale Halbjahresschrift für Slavistik* LV (2010), 45–66.</a><br> 
+*	<a href="../Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe,” *Welt der Slaven: Internationale Halbjahresschrift für Slavistik* LV (2010), 45–66.</a><br> 
 
-  
-
-
+ 
 * "jljslj" *text*
+
+  <h2>Chapters in edited volumes</h2>
+  
+* <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,” *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.</a><br>
+  
+  
+  

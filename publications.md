@@ -31,7 +31,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 *	<a href="../Iwona Janicka_A New Way To Suffer_Contagion_2019">"A New Way to Suffer: Girard, Rancière and Political Subjectification,” *Contagion: Journal of Violence, Mimesis, and Culture* 26: Spring (2019), 161–78.</a><br>
   
-*	“Über das Astronomische und das Mikroskopische: Sloterdijk und die Frage des Ausmaßes,” [Scaling up, Scaling down: Sloterdijk and Grand Narratives], *Pro-Fil: An Internet Journal of Philosophy* (Special Issue, 2017), 18–23. Doi.org/10.5817/pf17-3-1647<br> 
+*	“Über das Astronomische und das Mikroskopische: Sloterdijk und die Frage des Ausmaßes,” [Scaling up, Scaling down: Sloterdijk and the Question of Scale], *Pro-Fil: An Internet Journal of Philosophy* (Special Issue, 2017), 18–23. Doi.org/10.5817/pf17-3-1647<br> 
   
 *	<a href="../Iwona Janicka_Are These Bubbles Anarchist_Anarchist Studies 24.1._2016">“Are These Bubbles Anarchist? Peter Sloterdijk’s Spherology and the Question of Anarchism,” *Anarchist Studies* 24.1 (2016), 62–84.</a><br>
   
@@ -50,5 +50,22 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 * <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,” *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.</a><br>
   
+  <h2>Encyclopedia entries</h2>
   
-  
+* [“Anarchism.”](https://link.springer.com/referenceworkentry/10.1007/978-94-007-6730-0_1081-1) *Encyclopaedia of the Philosophy of Law and Social Philosophy*, eds. Mortimer Sellers, Stephan Kirste, Dordrecht: Springer (2023) doi.org/10.1007/978-94-007-6730-0_1081-1<br>
+
+  <h2>Book reviews</h2>
+
+* Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* (AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<br>
+
+* Jon Asimakopoulos and Richard Gilman-Opalsky (eds.). *Against Capital in Twenty-First-Century: A Reader of Radical Undercurrents* (Philadelphia: Temple University Press, 2018), *Anarchist Studies* 28.1 (2020): 103. DOI:10.3898/AS.28.1.06<br>
+ 
+* Iain MacKenzie. *Resistance and the Politics of Truth. Foucault, Deleuze, Badiou* (Bielefeld: transcript-Verlag, 2018), *H-France Review* 20.163 (September 2020).<br>
+
+* Elettra Stimilli. *The Debt of Living: Ascesis and Capitalism*, translated by Arianna Bove, foreword by Roberto Esposito (New York: SUNY Press, 2017), *Journal of Italian Philosophy* 2 (2019): 114–17.<br>
+
+* Grace Hellyer and Julian Murphet (eds.). *Rancière and Literature* (Edinburgh: Edinburgh University Press, 2016), *French Studies* 71.4 (2017): 610–11. doi.org/10.1093/fs/knx171<br>
+
+* Pierpaolo Antonello and Heather Webb (eds.). *Mimesis, Desire, and the Novel. René Girard and Literary Criticism* (East Lansing: Michigan State University Press, 2015), *Modern Language Review* 111.4 (2016): 1117–1118.<br> 
+
+* David Scott. *Gilbert Simondon: Psychic and Collective Individuation. A Critical Introduction and Guide* (Edinburgh: Edinburgh University Press, 2014), *Notre Dame Philosophical Reviews*, 2014.12.23<br>

@@ -50,7 +50,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 * <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,” *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.</a><br>
   
-  <h2>Encyclopedia entries</h2>
+  <h2>Encyclopaedia entries</h2>
   
 * [“Anarchism.”](https://link.springer.com/referenceworkentry/10.1007/978-94-007-6730-0_1081-1) *Encyclopaedia of the Philosophy of Law and Social Philosophy*, eds. Mortimer Sellers, Stephan Kirste, Dordrecht: Springer (2023) doi.org/10.1007/978-94-007-6730-0_1081-1<br>
 

@@ -13,13 +13,13 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
     </div>
     <div class="col-sm-8">
     <p>
-The turn of the Millennium demonstrated a fully-fledged revival and fusion of various left-wing social movements with differing agendas. Movements for women's, black, indigenous, LGTB and animal liberation as well as ecological, anti-nuclear and anti-war groups unified against the global capital. Considering the diverse emphases of these movements, is there a philosophical framework that could help us understand their nature and their modes of operation in the 21st century? This book offers a set of new conceptual tools to do that. It proposes a theoretical model of ‘slow’ social transformation - a modality of social change that explicitly differs from the irruptive model of a revolution - and provides two concepts of ‘mimetic contagion’ and ‘solidarity with singularity’ which allow us to understand what is currently happening in the activist milieu. By bringing together some of today’s most important thinkers, including Judith Butler, René Girard, Alain Badiou, and Peter Sloterdijk, this book suggests a philosophical lens to look at the alternative living projects that contemporary left-wing activists undertake in practice. At the heart of their projects lie the pressing concerns that these contemporary philosophers currently debate. Breaking from the conceptual apparatus of the Marxist tradition, Theorizing Contemporary Anarchism takes Hegelian concepts and feeds them through the thought of contemporary theorists in order to form an original, productive, and inclusive scaffold with which to understand today’s world of social and political movements.
+The turn of the Millennium demonstrated a fully-fledged revival and fusion of various left-wing social movements with differing agendas. Movements for women's, black, indigenous, LGTB and animal liberation as well as ecological, anti-nuclear and anti-war groups unified against the global capital. Considering the diverse emphases of these movements, is there a philosophical framework that could help us understand their nature and their modes of operation in the 21st century? This book offers a set of new conceptual tools to do that. It proposes a theoretical model of ‘slow’ social transformation - a modality of social change that explicitly differs from the irruptive model of a revolution - and provides two concepts of ‘mimetic contagion’ and ‘solidarity with singularity’ which allow us to understand what is currently happening in the activist milieu. By bringing together some of today’s most important thinkers, including Judith Butler, René Girard, Alain Badiou, and Peter Sloterdijk, this book suggests a philosophical lens to look at the alternative living projects that contemporary left-wing activists undertake in practice. At the heart of their projects lie the pressing concerns that these contemporary philosophers currently debate. Breaking from the conceptual apparatus of the Marxian tradition, [*Theorizing Contemporary Anarchism*](https://www.bloomsbury.com/uk/theorizing-contemporary-anarchism-9781474276191/) takes Hegelian concepts and feeds them through the thought of contemporary theorists in order to form an original, productive, and inclusive scaffold with which to understand today’s world of social and political movements.
 </p>
     </div>
   </div>
 </div>
   <h2>Journal articles</h2>
-  <a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf">la lala la la ll</a><br>
+  
   
 *  “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)<br>
   
@@ -43,16 +43,18 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 *	<a href="../Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe,” *Welt der Slaven: Internationale Halbjahresschrift für Slavistik* LV (2010), 45–66.</a><br> 
 
- 
-* "jljslj" *text*
+<br>
 
   <h2>Chapters in edited volumes</h2>
   
 * <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,” *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.</a><br>
   
-  <h2>Encyclopaedia entries</h2>
+  <br>
+
+ <h2>Encyclopaedia entries</h2>
   
 * [“Anarchism.”](https://link.springer.com/referenceworkentry/10.1007/978-94-007-6730-0_1081-1) *Encyclopaedia of the Philosophy of Law and Social Philosophy*, eds. Mortimer Sellers, Stephan Kirste, Dordrecht: Springer (2023) doi.org/10.1007/978-94-007-6730-0_1081-1<br>
+<br>
 
   <h2>Book reviews</h2>
 

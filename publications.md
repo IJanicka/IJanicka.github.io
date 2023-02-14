@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <div class="container">
-The turn of the Millennium demonstrated a fully-fledged revival and fusion of various left-wing social movements with differing agendas. Movements for women's, black, indigenous, LGTB and animal liberation as well as ecological, anti-nuclear and anti-war groups unified against the global capital. Considering the diverse emphases of these movements, is there a philosophical framework that could help us understand their nature and their modes of operation in the 21st century? 
+My published research includes articles in contemporary European philosophy, environmental philosophy, posthumanities, feminism & gender theory and political thought. Owing to my working knowledge of six languages, my basic approach is necessarily comparatist and interdisciplinary.  [**2 SETENCES MORE**]
   <h2>Monographs</h2>
   <div class="row">
     <div class="col-sm-4">

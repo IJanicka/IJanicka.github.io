@@ -13,6 +13,8 @@ At the heart of my research lies the question of social transformation: How can 
 **Current book project**
 
 TEXT
+TEXT
+TEXT
 
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>

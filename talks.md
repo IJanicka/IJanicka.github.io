@@ -6,7 +6,7 @@ permalink: /talks/
 
 
 
-**INVITED TALKS**<br>	
+**Invited talks**<br>	
   
 * “Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” Prešov, Slovakia, 2023<br>
 
@@ -38,7 +38,8 @@ permalink: /talks/
 
 
 
-**CONFERENCE PAPERS**<br>
+
+**Conference papers**<br>
   
 * “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” *Anarchist Studies Network* Conference, Loughborough University, UK, 12–14 September 2018<br>
   
@@ -74,7 +75,7 @@ permalink: /talks/
 
 
 
-**DEPARTMENTAL TALKS**	
+**Departamental talks**	
 
 * “World-Building. Towards a Constructive Notion of Philosophy,” *AIAS Seminar*, Aarhus Institute of Advanced Studies, Denmark, 7 December 2020<br>
  

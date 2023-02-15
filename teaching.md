@@ -34,7 +34,9 @@ Modern French Language: Translation (2016–17)
 
 Critical Theory and Method Seminar (in colleges, 2012–14) 
 
-Academic Writing (2013–14)
+Academic Writing (2013–14)<br>
+
+
 
 
 

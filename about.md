@@ -5,15 +5,14 @@ permalink: /about/
 ---
 
 **Research profile**<br>
-At the heart of my research lies the question of social transformation: How can we conceptualize and engage in politics that is relevant for the 21st century? Specifically, I focus on how politics is transformed in light of current climate change and rapid technological developments. In my work, I attempt to articulate a ‘nonhuman politics’, that is, politics for more-than-human worlds, in which questions of collective solidarity and alternative socio-political practices play an important part. By engaging with thinkers within broadly considered posthumanities and environmental philosophy, I hope to capture a series of transformations that are taking place in philosophy, art practices and in our cognitive maps of the world.<br>
+At the heart of my research lies the question of social transformation: How can we conceptualize and engage in politics that is relevant for the 21st century? In my first book, *Theorizing Contemporary Anarchism* (Bloomsbury, 2017), I propose a theoretical framework that accounts for plural political practices in contemporary left-wing activism: collective housing projects, cooperative farms, autonomous zones. In my current project, I focus on how politics is transformed in light of climate change. In my work, I attempt to articulate politics for more-than-human worlds, in which questions of collective solidarity and alternative socio-political practices play an important part. By engaging with thinkers within broadly considered posthumanities and environmental philosophy, I hope to capture a series of transformations that are taking place in philosophy, art practices and in our cognitive maps of the world. I am particularly interested in the works of Bruno Latour, Isabelle Stengers, Peter Sloterdijk, Michel Serres, Alain Badiou, Jacques Rancière, René Girard and Gilbert Simondon as well as ecofeminist contributions to 'nonhuman politics'.
 
 **Research Expertise**<br>	
 20th and 21st century French and German philosophy, Theory (Critical, Feminist, Queer, Anarchist, Posthuman), Literary Theory (Formalism, Structuralism, Poststructuralism, Narrative Theory)<br>
 
 **Current book project**
 
-My current book project deals with the question of how to think politics and nonhumans together. It interrogates the political implications of recent posthuman theory and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations. 
-TEXT
+My second book (in progress) deals with the question of how to think politics and nonhumans together. It interrogates the political implications of recent posthuman theory (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations. 
 TEXT<br>
 
 **Education**<br>

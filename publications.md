@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <div class="container">
-I have published in contemporary European philosophy, environmental philosophy, posthumanities, feminism & gender theory and political thought. With a background in literary theory, continental philosophy and art history, as well as working knowledge of six languages, my basic approach is comparatist and interdisciplinary. At the heart of my research lies the question social transformation.
+I have published in contemporary European philosophy, environmental philosophy, posthumanities, feminism & gender theory and political thought. With a background in literary theory, continental philosophy and art history, as well as fluency in six languages, my basic approach is comparatist and interdisciplinary. At the heart of my research lies the question social transformation.
   <h2>Monographs</h2>
   <div class="row">
     <div class="col-sm-4">

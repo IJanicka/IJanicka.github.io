@@ -20,9 +20,9 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 * M.Phil.	European Literature and Culture (First Class), University of Cambridge, 2009<br>
 * B.A.	Literary Theory and Comparative Literature (with distinction), History of Art (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
 
-**Professional experience**<br>
+**Professional experience**<br> 
 * Assistant Professor | EU Maria Skłodowska-Curie Actions COFUND II Fellow, Aarhus Institute of Advanced Studies, Aarhus University, Denmark (2019–2022)<br>
-* Early Career Innovation Fellow, Institute of Advanced Study, University of Warwick, UK (2018–2019)	<br>
+* Early Career Innovation Fellow, Institute of Advanced Study, University of Warwick, UK (2018–2019)<br>
 * British Academy Postdoctoral Fellow, French Studies, University of Warwick, UK (2015–2018)<br>
 
 

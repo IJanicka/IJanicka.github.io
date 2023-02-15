@@ -12,9 +12,9 @@ At the heart of my research lies the question of social transformation: How can 
 
 **Current book project**
 
+My current book project deals with the question of how to think politics and nonhumans together. It interrogates the political implications of recent posthuman theory and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations. 
 TEXT
-TEXT
-TEXT
+TEXT<br>
 
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>
@@ -22,7 +22,7 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 * M.Phil.	European Literature and Culture (First Class), University of Cambridge, 2009<br>
 * B.A.	Literary Theory and Comparative Literature (with distinction), History of Art (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
 
-**Professional experience**<br>	 
+**Professional experience**<br>
 * Assistant Professor | EU Maria Skłodowska-Curie Actions COFUND II Fellow, Aarhus Institute of Advanced Studies, Aarhus University, Denmark (2019–2022)<br>
 * Early Career Innovation Fellow, Institute of Advanced Study, University of Warwick, UK (2018–2019)	<br>
 * British Academy Postdoctoral Fellow, French Studies, University of Warwick, UK (2015–2018)<br>
@@ -33,17 +33,5 @@ Polish (native), English (fluent), French (fluent), German (fluent), Danish (adv
 
 
 
-**Funding, fellowships & awards** (selected)<br>
-
-* The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
-* EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, DK (2019–2022)	<br>
-* Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>
-* Creative Exchange Impact Grant, Universities of Warwick & Coventry, UK (2018)<br>
-*	British Academy Postdoctoral Fellowship, University of Warwick, UK (2015–2018)<br>
-*	Full PhD Funding from The Bill and Melinda Gates Cambridge Trust, UK (2010–2014)<br>
-*	Board of Graduate Studies Fieldwork Funding, University of Cambridge, UK (2012–2013)<br>
-* Scholarship, Studienstiftung des deutschen Volkes, Germany (2010)<br>
-* Scholarship *Studienkolleg zu Berlin*, Germany (2009–2010)<br>
-* Scholarship to study at SNU (South Korea), LMU Munich and DAAD, DE (2007–2008)<br>
 
 

@@ -18,7 +18,7 @@ My second book (in progress) deals with the question of how to think politics an
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>
 Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transformation with Butler, Girard, Sloterdijk, and Badiou*. Supervised by Ian James<br>
 * M.Phil.	European Literature and Culture (First Class), University of Cambridge, 2009<br>
-* B.A.	Literary Theory and Comparative Literature (with distinction), History of Art (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
+* B.A.	Literary Theory and Comparative Literature (with distinction), Art History (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
 
 **Professional experience**<br> 
 * Assistant Professor, EU Maria Skłodowska-Curie Actions COFUND II, Aarhus Institute of Advanced Studies, Aarhus University, Denmark (2019–2022)<br>

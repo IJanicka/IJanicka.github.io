@@ -32,7 +32,7 @@ Modern French Language: Translation (2016–17)
 
 **University of Cambridge, UK**<br>
 
-Critical Theory and Method (in colleges, 2012–14) 
+Critical Theory and Method Seminar (in colleges, 2012–14) 
 
 Academic Writing (2013–14)
 
@@ -55,9 +55,13 @@ The many environmental upheavals of our time, climate change in particular, has 
 
 **Modern French Thinkers**
 
-This module explores some of the most important ideas and significant developments in French thought from the 1930s to the present day. It addresses a number of important works by key thinkers of this period, setting these works in their wider intellectual and historical contexts, and exploring the context and impact of various politically-committed writers who became such a feature of France between the Second World War and the turn of the century. Term 1 is focused on the concept of myth and mythology (Simone de Beauvoir, Luce Irigaray, Roland Barthes); Term 2 will engage with the notion of emancipation (Alain Badiou, Jacques Rancière, Jean-Luc Nancy). This module offers crucial insights into the pressing concerns and key questions that continue to spark off intense philosophical debates in France today.
+This module explores some of the most important ideas and significant developments in French thought from the 1930s to the present day. It addresses a number of important works by key thinkers of this period, setting these works in their wider intellectual and historical contexts, and exploring the context and impact of various politically-committed writers who became such a feature of France between the Second World War and the turn of the century. Term 1 is focused on the concept of myth and mythology (Simone de Beauvoir, Luce Irigaray, Roland Barthes); Term 2 engages with the notion of emancipation (Alain Badiou, Jacques Rancière, Jean-Luc Nancy). This module offers crucial insights into the pressing concerns and key questions that continue to spark off intense philosophical debates in France today.
 
 
 **France and Globalisation**
 
 France's attitudes towards globalisation are as dramatic as they are contradictory. On the one hand, French discourse can equate globalisation or mondialisation with 'McDonaldization', the erosion of national culture, or the triumph of the free market over social justice. On the other hand, companies such as Total, AXA, Peugeot, Carrefour, and EDF, or brands such as L‘Oréal, LVMH and Dior are known and active throughout the world, and French companies employ almost 5 million people outside of France. This module examines some of the reasons for this complex attitude, and looks especially at what globalisation represents for France today in the eyes of key different commentators and analysts. Economic, political, philosophical, ecological, and related dissenting perspectives are covered. We explore key French notions of declinism, resistance, exceptionalism, and francophonie in the context of globalisation, and we become familiar with a number of influential and recognizable French figures and commentators. We look at the relevance of Atlanticism, of anti-Americanism, and of various forms of altermondialismes and 'degrowth' arguments. We do not focus, however, in any specialist way on economic theory or tools.
+
+**Critical Theory and Method Seminar**
+
+The course offers an introductory overview of a range of concepts, schools, and individual theorists or philosophers. The topics covered introduce students to some of the key ideas that have influenced knowledge and research in the humanities in recent decades. Their aim is to help students understand the theoretical approaches, which underpin a great majority of the teaching in literature, film, and linguistics, which occurs in the Modern and Medieval Languages Faculty at the University of Cambridge. Students are encouraged to integrate these aspects of critical thought and theory into their wider learning and study within their final exams. 

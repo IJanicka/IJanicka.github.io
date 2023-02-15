@@ -10,6 +10,10 @@ At the heart of my research lies the question of social transformation: How can 
 **Research Expertise**<br>	
 20th and 21st century French and German philosophy, Theory (Critical, Feminist, Queer, Anarchist, Posthuman), Literary Theory (Formalism, Structuralism, Poststructuralism, Narrative Theory)<br>
 
+**Current book project**
+
+TEXT
+
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>
 Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transformation with Butler, Girard, Sloterdijk, and Badiou*. Supervised by Ian James<br>
@@ -25,6 +29,19 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 **Languages**<br> 	
 Polish (native), English (fluent), French (fluent), German (fluent), Danish (advanced, C1 | *Studieprøven*), Russian (upper intermediate, B2), Czech (intermediate, B1)<br>
 
-**Current book project**
 
-TEXT
+
+**Funding, fellowships & awards** (selected)<br>
+
+* The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
+* EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, DK (2019–2022)	<br>
+* Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>
+* Creative Exchange Impact Grant, Universities of Warwick & Coventry, UK (2018)<br>
+*	British Academy Postdoctoral Fellowship, University of Warwick, UK (2015–2018)<br>
+*	Full PhD Funding from The Bill and Melinda Gates Cambridge Trust, UK (2010–2014)<br>
+*	Board of Graduate Studies Fieldwork Funding, University of Cambridge, UK (2012–2013)<br>
+* Scholarship, Studienstiftung des deutschen Volkes, Germany (2010)<br>
+* Scholarship *Studienkolleg zu Berlin*, Germany (2009–2010)<br>
+* Scholarship to study at SNU (South Korea), LMU Munich and DAAD, DE (2007–2008)<br>
+
+

@@ -9,7 +9,8 @@ At the heart of my research lies the question of social transformation: How can 
 
 **Research expertise**<br>	
 * Continental Philosophy
-* Critical Theory & Literary Theory (Formalism, Structuralism, Poststructuralism, Narrative Theory)
+* Critical Theory 
+* Literary Theory 
 * Feminism & Gender Studies
 * Environmental Humanities
 * Posthumanism

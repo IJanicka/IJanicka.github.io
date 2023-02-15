@@ -12,7 +12,7 @@ At the heart of my research lies the question of social transformation: How can 
 
 **Current book project**
 
-My second book (in progress) deals with the question of how to think politics and nonhumans together. It interrogates the political implications of recent posthuman theory (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations.<br>
+My second book (in progress) deals with the question of how to think politics and nonhumans together in the context of ecological crisis. It interrogates the political implications of recent posthuman theories (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations.<br>
 
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>
@@ -21,7 +21,7 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 * B.A.	Literary Theory and Comparative Literature (with distinction), History of Art (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
 
 **Professional experience**<br> 
-* Assistant Professor, EU Maria Skłodowska-Curie Actions COFUND II Fellow, Aarhus Institute of Advanced Studies, Aarhus University, Denmark (2019–2022)<br>
+* Assistant Professor, EU Maria Skłodowska-Curie Actions COFUND II, Aarhus Institute of Advanced Studies, Aarhus University, Denmark (2019–2022)<br>
 * Early Career Innovation Fellow, Institute of Advanced Study, University of Warwick, UK (2018–2019)<br>
 * British Academy Postdoctoral Fellow, French Studies, University of Warwick, UK (2015–2018)<br>
 

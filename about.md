@@ -18,7 +18,7 @@ At the heart of my research lies the question of social transformation: How can 
 
 **Current book project**
 
-My second book (in progress) deals with the question of how to think politics and nonhumans together in the context of ecological crisis. It interrogates the political implications of recent posthuman theories (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations.<br>
+My second book (in progress) deals with the question of how to think politics and nonhumans together in the context of ecological crisis. It interrogates the political implications of recent posthuman theories (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much of contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations.<br>
 
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>

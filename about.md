@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 **Research profile**<br>
+
 At the heart of my research lies the question of social transformation: How can we conceptualize and engage in politics that is relevant for the 21st century? In my first book, [*Theorizing Contemporary Anarchism*](https://www.bloomsbury.com/uk/theorizing-contemporary-anarchism-9781474276191/) (Bloomsbury, 2017), I propose a theoretical framework that accounts for plural political practices in contemporary left-wing activism: collective housing projects, cooperative farms, autonomous zones. In my current research project, I focus on how politics is transformed in light of climate change. In my work, I attempt to articulate politics for more-than-human worlds, in which questions of collective solidarity and alternative socio-political practices play an important part. By engaging with thinkers within broadly considered posthumanities and environmental philosophy, I hope to capture a series of transformations that are taking place in philosophy, art practices and in our cognitive maps of the world. I am particularly interested in the works of Bruno Latour, Isabelle Stengers, Vinciane Despret, Peter Sloterdijk, Michel Serres, Alain Badiou, Jacques Rancière, René Girard and Gilbert Simondon as well as ecofeminist contributions to conceptualizing 'nonhuman politics'.<br>
 
 **Research expertise**<br>	
@@ -16,7 +17,7 @@ At the heart of my research lies the question of social transformation: How can 
 * Posthumanism
 * Anarchism<br>
 
-**Current book project**
+**Current book project**<br>
 
 My second book (in progress) deals with the question of how to think politics and nonhumans together in the context of ecological crisis. It interrogates the political implications of recent posthuman theories (broadly considered) and its radical shift to nonhuman factors. The project’s central contribution is its emphasis on political practice. Whereas much of contemporary scholarship on nonhuman politics focuses on a comprehensive reconsideration of the term ‘politics’, my research addresses the concrete political action that follows from such theoretical reformulations.<br>
 

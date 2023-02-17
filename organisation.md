@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisation
+title: Organisation of conferences
 permalink: /organisation/
 ---
 

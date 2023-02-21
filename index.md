@@ -10,7 +10,11 @@ permalink: /
     <img src="../images/profile.jpg"/>
     </div>
     <div class="col-sm-6">
-    <p><br>I am a Researcher at Aarhus Univerity. Iwona's research interests lie within the area of twentieth- and twenty-first-century French and German philosophy, political thought and Theory (French, Critical, Literary, Feminist, Queer, Anarchist). Her first monograph, Theorizing Contemporary Anarchism. Solidarity, Mimesis and Radical Social Change (Bloomsbury Academic, 2017), considers the concept of universality and social transformation in contemporary philosophy. Her second monograph (in progress) deals with the question of how to think politics and nonhumans together. </p>
+    <p><br>I am a researcher in contemporary European philosophy, with a focus on politics and ecology. I work on social transformation, specifically in light of current climate change.<br>
+
+My first monograph, *Theorizing Contemporary Anarchism* (Bloomsbury Academic, 2017), considers the concept of universality and social change in contemporary philosophy. My second monograph (in progress) deals with the question of how to think politics and nonhumans together.<br>
+
+I am currently affiliated with the department of Aesthetics and Culture at Aarhus University, Denmark. </p>
       <p><a href="about">Read more about me and my research.</a></p>
     </div>
   </div>

@@ -10,7 +10,7 @@ permalink: /
     <img src="../images/profile.jpg"/>
     </div>
     <div class="col-sm-6">
-    <p><br>I am a researcher in contemporary European philosophy, with a focus on politics and ecology. I work on social transformation, specifically in light of current climate change.<br>
+    <p><br>I am a researcher in contemporary European philosophy, focusing on questions of politics and ecology. I work on social transformation, specifically in light of current climate change.<br>
 
 My first monograph, *Theorizing Contemporary Anarchism* (Bloomsbury Academic, 2017), considers the concept of universality and social change in contemporary philosophy. My second monograph (in progress) deals with the question of how to think politics and nonhumans together.<br>
 

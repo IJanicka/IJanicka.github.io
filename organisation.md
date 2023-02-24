@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organisation of conferences
-permalink: /Organisation/
+permalink: /organisation/
 ---
 
 

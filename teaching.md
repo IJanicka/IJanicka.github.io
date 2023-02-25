@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 My teaching experience includes introductory courses and advanced seminars in continental philosophy, environmental humanities, feminism & gender studies, aesthetics and culture, literary theory and cultural theory. 
 
-**Aarhus University, Denmark**<br>
+<br>**Aarhus University, Denmark**<br>
 
 Women and Nature: Ecofeminism in Theory and Practice (designed, 2022–23)
 
@@ -18,7 +18,7 @@ Introduction to Sociological Theory and Analysis of the Contemporary (co-taught,
 Gender Theories in Historical and Political Context (co-taught, 2020–21)
 
 
-**University of Warwick, UK**<br>
+<br>**University of Warwick, UK**<br>
 
 Critical Theory in Modern Languages (co-taught, 2017–18, MA)	
 
@@ -27,9 +27,9 @@ Modern French Thinkers (module convenor, 2016–17)
 France and Globalisation (module convenor, 2016–17)
 
 Modern French Language: Translation (2016–17)
+<br>
 
-
-**University of Cambridge, UK**<br>
+<br>**University of Cambridge, UK**<br>
 
 Critical Theory and Method Seminar (in colleges, 2012–14) 
 
@@ -37,7 +37,7 @@ Academic Writing (2013–14)<br>
 
 
 
-
+<br><br>
 
 <h3>Description of selected courses</h3>
 

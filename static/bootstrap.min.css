@@ -48,7 +48,7 @@ a:active, a:hover {
 
 h1 {
     margin: .67em 0;
-    font-size: 2em
+    font-size: 2em;
 }
 
 abbr[title] {
@@ -293,7 +293,6 @@ input, button, select, textarea {
 
 a {
     color: #428bca;
-    text-decoration: none
 }
 
 a:hover, a:focus {
@@ -308,7 +307,24 @@ a:focus {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    padding-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+    .pub-img {
+        padding: 0px 20px 20px 0px;
+        float: left;
+        width: 40%;
+    }
+}
+
+@media (max-width: 768px) {
+    .front-img {
+        width:70%;
+	display: block;
+	margin:auto;
+    }
 }
 
 .img-responsive {

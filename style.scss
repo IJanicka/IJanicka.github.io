@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -66,16 +66,12 @@ h4 {
 
 p {
   margin: 15px 0;
-  align: justified;
+  text-align: justify;
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
+	color: $blue;
 }
 
 ul, ol {
@@ -109,6 +105,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  vertical-align: middle;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -226,10 +223,11 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    text-decoration: none;
 
     @include mobile {
       margin: 0 10px;

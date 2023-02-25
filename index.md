@@ -7,7 +7,7 @@ permalink: /
 <div class="container">
   <div class="row">
      <div class="col-sm-4">
-       <img src="../images/profile.jpg" style="align:center;"/>
+       <img class="front-img" src="../images/profile.jpg"/>
      </div>
     <div class="col-sm-8">
     <p>I am a researcher in contemporary European philosophy, working on the question of social transformation.</p>

@@ -35,7 +35,7 @@ permalink: /talks/
 * “In Schäumen Schweben: Sphärische Immunsysteme und ihr Potential für den Neo-Materialismus,” [Floating in Foams: Spherological Immune System and its Potential for Neo-Materialism], Forschungsinstitut für Philosophie Hannover, Germany, 2 June 2015<br> 
 
 * “Critique vs. Affirmation: Foucault, Sloterdijk and the Possibilities of Formulating an Affirmative Theory after Poststructuralism,” Forschungsinstitut für Philosophie Hannover, Germany, 4 December 2014<br>
-
+<br>
 
 
 
@@ -72,10 +72,10 @@ permalink: /talks/
 * “Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis,” *Altered Self and Altered Self-Experience* International Workshop. New University of Lisbon, Portugal, 30 May 2013<br>
   
 * “Why Equality is No Good – Judith Butler and Politics of Asymmetry,” Graduate Political Theory Conference: *The Politics of Equality*. University of Oxford, UK, 25 April 2013<br>
+<br>
 
 
-
-**Departamental talks**	
+**Departmental talks**	
 
 * “World-Building. Towards a Constructive Notion of Philosophy,” *AIAS Seminar*, Aarhus Institute of Advanced Studies, Denmark, 7 December 2020<br>
  

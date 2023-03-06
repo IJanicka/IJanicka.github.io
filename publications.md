@@ -45,7 +45,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 
   <h2>Chapters in edited volumes</h2>
   
-* <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,” *The Bloomsbury Handbook of Posthumanism*,</a> eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.<br>
+* <a href="../Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed. Wamberg and Thomsen_2020">“Nonhuman Politics and its Practices,”</a> *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.<br>
   
   <br>
 

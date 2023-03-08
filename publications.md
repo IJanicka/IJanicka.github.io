@@ -37,7 +37,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 *	<a href="../articles/Iwona Janicka_Homosocial bonds and narrative strategies_Romanica Silesiana_2013.pdf" target="_blank">“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870),”</a> *Romanica Silesiana. Gendered Constructions* 8 (2013), 138–150.<br>
   
-*	<a href="../articles/Iwona Janicka_Hegel on a Carrousel_Paragraph_ Nov 2013.pdf" target="_blank">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler,”</a> *Paragraph: A Journal of Modern Critical Theory* 36.3 (2013), 361–75.<br>
+*	<a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf" target="_blank">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler,”</a> *Paragraph: A Journal of Modern Critical Theory* 36.3 (2013), 361–75.<br>
   
 *	<a href="../articles/Iwona Janicka_Mapping the Father_Greimas and Schulz_Welt der Slaven_2010.pdf" target="_blank">“Mapping the Father. The Application of Greimassian Semiotics to Bruno Schulz’s Sklepy Cynamonowe,”</a> *Welt der Slaven: Internationale Halbjahresschrift für Slavistik* LV (2010), 45–66.<br> 
 

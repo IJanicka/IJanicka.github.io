@@ -4,12 +4,11 @@ title: Organisation of conferences
 permalink: /events/
 ---
 
-<base target="_blank">
 
 I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
 **Co-organizer of an international conference in environmental humanities**<br>
-*[Earth Sensations](https://aias.au.dk/events/earth-sensations): Affects, Sensibilities and Attachments in an Era of Climate Change* (with Tobias Skiveren), keynotes: [Jane Bennett](https://politicalscience.jhu.edu/directory/jane-bennett/), [Alexis Shotwell](https://alexisshotwell.com), [Nicole Seymour](https://english.fullerton.edu/faculty/profile/n_seymour.aspx); Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University) - <a href="../CfP_Conference_Earth Sensations_AIAS_AU_KN">CFP</a>
+*[Earth Sensations](https://aias.au.dk/events/earth-sensations): Affects, Sensibilities and Attachments in an Era of Climate Change* (with Tobias Skiveren), keynotes: [Jane Bennett](https://politicalscience.jhu.edu/directory/jane-bennett/), <a href="https://alexisshotwell.com" target="_blank">Alexis Shotwell</a>, [Nicole Seymour](https://english.fullerton.edu/faculty/profile/n_seymour.aspx); Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University) - <a href="../CfP_Conference_Earth Sensations_AIAS_AU_KN">CFP</a>
 
 
 **Co-organizer of an international conference in contemporary French philosophy (organising committee)**<br>

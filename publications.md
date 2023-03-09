@@ -66,7 +66,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 
 * <a href="../articles/Janicka_Ranciere and Literature_Review_French Studies.pdf" target="_blank">Grace Hellyer and Julian Murphet (eds.). *Rancière and Literature* </a>(Edinburgh: Edinburgh University Press, 2016), *French Studies* 71.4 (2017): 610–11. doi.org/10.1093/fs/knx171<br>
 
-* <a href="../articles/MLA Review_Iwona Janicka_Mimesis, Desire and the Novel_111-4-10-2016.pdf" target="_blank">Pierpaolo Antonello and Heather Webb (eds.). *Mimesis, Desire, and the Novel. René Girard and Literary Criticism*</a> (East Lansing: Michigan State University Press, 2015), *Modern Language Review* 111.4 (2016): 1117–1118.<br> 
+* <a href="../articles/MLA Review_Iwona Janicka_Mimesis Desire and the Novel_111-4-10-2016.pdf" target="_blank">Pierpaolo Antonello and Heather Webb (eds.). *Mimesis, Desire, and the Novel. René Girard and Literary Criticism*</a> (East Lansing: Michigan State University Press, 2015), *Modern Language Review* 111.4 (2016): 1117–1118.<br> 
 
 * <a href="../articles/Review_French Studies-2016-Janicka_Matters of Times.pdf" target="_blank">Lisa Jeschke and Adrian May (eds.). *Matters of Time: Material Temporalities in Twentieth-Century French Culture* </a>(Oxford: Peter Lang, 2014), *French Studies* 70.1(2016): 141–142. doi:10.1093/fs/knv241<br>
 

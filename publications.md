@@ -60,14 +60,14 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 
 * <a href="../articles/Review_Asimakopoulos and Gilman-Opalsky_Against Capital in the 21st century_by Iwona Janicka_Anarchist Studies_2020.pdf" target="_blank">Jon Asimakopoulos and Richard Gilman-Opalsky (eds.). *Against Capital in Twenty-First-Century: A Reader of Radical Undercurrents* </a>(Philadelphia: Temple University Press, 2018), *Anarchist Studies* 28.1 (2020): 103. DOI:10.3898/AS.28.1.06<br>
  
-* <a href="../Review of Iain MacKenzie_Resistance and the Politics of Truth_vol20no163_2020_Iwona Janicka.pdf" target="_blank">Iain MacKenzie. *Resistance and the Politics of Truth. Foucault, Deleuze, Badiou* </a>(Bielefeld: transcript-Verlag, 2018), *H-France Review* 20.163 (September 2020).<br>
+* <a href="../articles/Review of Iain MacKenzie_Resistance and the Politics of Truth_vol20no163_2020_Iwona Janicka.pdf" target="_blank">Iain MacKenzie. *Resistance and the Politics of Truth. Foucault, Deleuze, Badiou* </a>(Bielefeld: transcript-Verlag, 2018), *H-France Review* 20.163 (September 2020).<br>
 
-* <a href="../13 Iwona Janicka - Review of Stimilli The Debt of the Living.pdf" target="_blank">Elettra Stimilli. *The Debt of Living: Ascesis and Capitalism*</a>, translated by Arianna Bove, foreword by Roberto Esposito (New York: SUNY Press, 2017), *Journal of Italian Philosophy* 2 (2019): 114–17.<br>
+* <a href="../articles/13 Iwona Janicka - Review of Stimilli The Debt of the Living.pdf" target="_blank">Elettra Stimilli. *The Debt of Living: Ascesis and Capitalism*</a>, translated by Arianna Bove, foreword by Roberto Esposito (New York: SUNY Press, 2017), *Journal of Italian Philosophy* 2 (2019): 114–17.<br>
 
-* <a href="../Janicka_Ranciere and Literature_Review_French Studies.pdf" target="_blank">Grace Hellyer and Julian Murphet (eds.). *Rancière and Literature* </a>(Edinburgh: Edinburgh University Press, 2016), *French Studies* 71.4 (2017): 610–11. doi.org/10.1093/fs/knx171<br>
+* <a href="../articles/Janicka_Ranciere and Literature_Review_French Studies.pdf" target="_blank">Grace Hellyer and Julian Murphet (eds.). *Rancière and Literature* </a>(Edinburgh: Edinburgh University Press, 2016), *French Studies* 71.4 (2017): 610–11. doi.org/10.1093/fs/knx171<br>
 
-* <a href="../MLA Review_Iwona Janicka_Mimesis, Desire and the Novel_111-4-10-2016.pdf" target="_blank">Pierpaolo Antonello and Heather Webb (eds.). *Mimesis, Desire, and the Novel. René Girard and Literary Criticism*</a> (East Lansing: Michigan State University Press, 2015), *Modern Language Review* 111.4 (2016): 1117–1118.<br> 
+* <a href="../articles/MLA Review_Iwona Janicka_Mimesis, Desire and the Novel_111-4-10-2016.pdf" target="_blank">Pierpaolo Antonello and Heather Webb (eds.). *Mimesis, Desire, and the Novel. René Girard and Literary Criticism*</a> (East Lansing: Michigan State University Press, 2015), *Modern Language Review* 111.4 (2016): 1117–1118.<br> 
 
-* <a href="../Review_French Studies-2016-Janicka_Matters of Times.pdf" target="_blank">Lisa Jeschke and Adrian May (eds.). *Matters of Time: Material Temporalities in Twentieth-Century French Culture* </a>(Oxford: Peter Lang, 2014), *French Studies* 70.1(2016): 141–142. doi:10.1093/fs/knv241<br>
+* <a href="../articles/Review_French Studies-2016-Janicka_Matters of Times.pdf" target="_blank">Lisa Jeschke and Adrian May (eds.). *Matters of Time: Material Temporalities in Twentieth-Century French Culture* </a>(Oxford: Peter Lang, 2014), *French Studies* 70.1(2016): 141–142. doi:10.1093/fs/knv241<br>
 
 * <a href="https://ndpr.nd.edu/reviews/gilbert-simondon-s-psychic-and-collective-individuation-a-critical-introduction-and-guide/" target="_blank">David Scott. *Gilbert Simondon: Psychic and Collective Individuation. A Critical Introduction and Guide*</a> (Edinburgh: Edinburgh University Press, 2014), *Notre Dame Philosophical Reviews*, 2014.12.23<br>

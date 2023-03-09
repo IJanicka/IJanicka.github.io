@@ -56,9 +56,9 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 
  <h2>Book reviews</h2>
 
-* <a href="../Review by Iwona Janicka_Carlos Taibo_Rethining Anarchy_Anarchist Studies 30_2_2022.pdf" target="_blank">Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* </a>(AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<br>
+* <a href="../articles/Review by Iwona Janicka_Carlos Taibo_Rethining Anarchy_Anarchist Studies 30_2_2022.pdf" target="_blank">Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* </a>(AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<br>
 
-* <a href="../Review_Asimakopoulos and Gilman-Opalsky_Against Capital in the 21st century_by Iwona Janicka_Anarchist Studies_2020.pdf" target="_blank">Jon Asimakopoulos and Richard Gilman-Opalsky (eds.). *Against Capital in Twenty-First-Century: A Reader of Radical Undercurrents* </a>(Philadelphia: Temple University Press, 2018), *Anarchist Studies* 28.1 (2020): 103. DOI:10.3898/AS.28.1.06<br>
+* <a href="../articles/Review_Asimakopoulos and Gilman-Opalsky_Against Capital in the 21st century_by Iwona Janicka_Anarchist Studies_2020.pdf" target="_blank">Jon Asimakopoulos and Richard Gilman-Opalsky (eds.). *Against Capital in Twenty-First-Century: A Reader of Radical Undercurrents* </a>(Philadelphia: Temple University Press, 2018), *Anarchist Studies* 28.1 (2020): 103. DOI:10.3898/AS.28.1.06<br>
  
 * <a href="../Review of Iain MacKenzie_Resistance and the Politics of Truth_vol20no163_2020_Iwona Janicka.pdf" target="_blank">Iain MacKenzie. *Resistance and the Politics of Truth. Foucault, Deleuze, Badiou* </a>(Bielefeld: transcript-Verlag, 2018), *H-France Review* 20.163 (September 2020).<br>
 

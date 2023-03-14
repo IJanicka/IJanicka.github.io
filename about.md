@@ -11,8 +11,8 @@ At the heart of my research lies the question of social transformation: How can 
 
 **Research expertise**<br>	
 * Continental Philosophy
-* Literary & Critical Theory  
-* Feminism & Gender Studies
+* Literary and Critical Theory  
+* Feminism and Gender Studies
 * Environmental Humanities
 * Posthumanism
 * Anarchism<br>

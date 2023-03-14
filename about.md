@@ -52,4 +52,11 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 * Scholarship, LMU Munich and DAAD, to study at Seoul National University (South Korea) (2007–2008)<br>
 
 
+**Editorial Boards**
 
+* <a href="https://migratingminds.georgetown.edu" target="_blank"> *Migrating Minds: Journal of Cultural Cosmopolitanism*
+
+**Transdisciplinarity**
+
+* Member of the <a href="https://globalyoungacademy.net" target="_blank"> Global Young Academy (2019–2024)
+  

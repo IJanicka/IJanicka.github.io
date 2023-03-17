@@ -9,7 +9,7 @@ My teaching experience includes introductory courses and advanced seminars in co
 
 Women and Nature: Ecofeminism in Theory and Practice (designed, 2022–23)
 
-Introduction to Feminism: Theory, Art, Activism (designed, 2020–21)
+Introduction to Feminism: Theory, Art, Activism (designed, 2021–22)
 
 Contemporary Art and Culture: World-Making in Troubled Times (co-designed, 2020–21, MA)
 

@@ -4,6 +4,7 @@ title: About me
 permalink: /about/
 ---
 
+Currently I am a researcher at the department of Aesthetics and Culture at Aarhus University (Denmark). Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fellow at Aarhus Institute of Advanced Studies (2019-2022), Affiliated Researcher at Centre Marc Bloch Berlin (2018–19), Early Career Innovation Fellow with the Institute of Advanced Study at the University of Warwick (2018–19) and British Academy Postdoctoral Fellow (2015–18) at the School of Modern Languages and Cultures (French Studies) at Warwick, UK. In 2015–16 I held visiting fellowships with Forschungsinstitut für Philosophie Hannover (Germany) and the Posthuman Aesthetics research group at Aarhus University. As Gates Scholar I completed my PhD in French Studies at the University of Cambridge, Trinity Hall, in 2014. My research has been supported by Studienstiftung des deutschen Volkes and Hertie-Stiftung (Studienkolleg zu Berlin). I am a member of the Global Young Academy.
 
 **Research profile**<br>
 

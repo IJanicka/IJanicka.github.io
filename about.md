@@ -35,6 +35,7 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 
 
 **Languages**<br> 	
+
 Polish (native), English (fluent), German (fluent), French (fluent), Danish (advanced, C1 | *Studieprøven*), Russian (upper intermediate, B2), Czech (intermediate, B1)<br>
 
 

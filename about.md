@@ -34,7 +34,7 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 * British Academy Postdoctoral Fellow, French Studies, University of Warwick, UK (2015–2018)<br>
 
 
-**Languages**<br> 	
+**Languages**<br>
 
 Polish (native), English (fluent), German (fluent), French (fluent), Danish (advanced, C1 | *Studieprøven*), Russian (upper intermediate, B2), Czech (intermediate, B1)<br>
 

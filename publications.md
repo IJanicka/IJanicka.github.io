@@ -25,7 +25,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 * <a href="https://journals.sagepub.com/doi/10.1177/02632764221146717" target="_blank">“Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,”</a> *Theory, Culture & Society* 40.3 (2023), 23-40, doi: 10.1177/02632764221146717<br> 
   
-*	<a href="https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765" target="_blank">“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”</a> *Textual Practice* (2022), doi: 10.1080/0950236X.2022.2056765<br> 
+*	<a href="https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765" target="_blank">“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”</a> *Textual Practice* (2023), 847–866. doi.org/10.1080/0950236X.2022.2056765 <br> 
   
 *	<a href="../articles/Iwona Janicka_Who Can Speak Ranciere Latour and Articulation_Humanities_2020.pdf" target="_blank">“Who Can Speak? Rancière, Latour and the Question of Articulation,”</a> *Humanities* 9.4 (2020): 123. doi.org/10.3390/h9040123<br>
   

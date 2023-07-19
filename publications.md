@@ -19,7 +19,9 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   <h2>Journal articles</h2>
   
   
-*  “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy*)<br>
+* “The Janus Face of Cosmopolitics: The Concept of Universality in Isabelle Stengers and Bruno Latour” (forthcoming in *Philosophy Today* 68.3, Summer 2024) <br>
+
+*  “Paradoxes of Equality: Jacques Rancière’s Politics and Nonhumans,” (forthcoming in *Parrhesia: A Journal of Critical Philosophy* 38, Autumn 2023)<br>
   
 * <a href="https://journals.sagepub.com/doi/10.1177/02632764221146717" target="_blank">“Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,”</a> *Theory, Culture & Society* 40.3 (2023), 23-40, doi: 10.1177/02632764221146717<br> 
   

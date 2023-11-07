@@ -10,6 +10,8 @@ permalink: /talks/
   
 * “Conceptualzing Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” *Philosophy Festival*, Prešov, Slovakia, 16 November 2023<br>
 
+* “Coarticulations: Towards a Politics of Cohabitation”, *Perpetual Peace Conference*, Ústí nad Labem, Czech Republic, 9-10 November 2023 <br>
+
 * “What Universality? Cosmopolitics and its Guises,” *Becoming Planetary as a Challenge*, Goethe-University, Frankfurt am Main, Germany, 6-8 October 2022<br>
 
 * “Slow Social Transformation: How Radical Can It Get?” Global Klimaaktion, Aarhus, Denmark, 13 April 2022<br>

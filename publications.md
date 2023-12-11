@@ -26,9 +26,10 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 * <a href="https://journals.sagepub.com/doi/10.1177/02632764221146717" target="_blank">“Reinventing the Diplomat: Isabelle Stengers, Bruno Latour and Baptiste Morizot,”</a> *Theory, Culture & Society* 40.3 (2023), 23-40, doi: 10.1177/02632764221146717<br> 
   
 *	<a href="https://www.tandfonline.com/doi/abs/10.1080/0950236X.2022.2056765" target="_blank">“Processes of Translation: Bruno Latour’s Heterodox Semiotics,”</a> *Textual Practice* (2023), 847–866. doi.org/10.1080/0950236X.2022.2056765 <br>
-<p>
+
 This article offers an in-depth analysis of the concept of translation in Bruno Latour’s oeuvre – an ambiguous and constantly morphing term. It considers the various conceptual reformulations of translation throughout his writing, concentrating on its fundamental importance for the operation of his modes of existence. A special emphasis is put on the influence of A. J. Greimas’s semiotics on Latour’s theoretical framework. The aim here is to trace how translation is different from transformation, and why it remains a core concept in Latour’s work, despite the fact that he strays far beyond the confines of linguistics alone in his theorisation.
-  </p>
+  
+  
 *	<a href="../articles/Iwona Janicka_Who Can Speak Ranciere Latour and Articulation_Humanities_2020.pdf" target="_blank">“Who Can Speak? Rancière, Latour and the Question of Articulation,”</a> *Humanities* 9.4 (2020): 123. doi.org/10.3390/h9040123<br>
   
 *	<a href="../articles/Iwona Janicka_A New Way To Suffer_Contagion_2019.pdf" target="_blank">"A New Way to Suffer: Girard, Rancière and Political Subjectification,”</a> *Contagion: Journal of Violence, Mimesis, and Culture* 26: Spring (2019), 161–78.<br>

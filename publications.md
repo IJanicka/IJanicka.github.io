@@ -45,7 +45,6 @@ In recent years, scholars in broadly considered posthumanities have attempted to
 
 This contribution explores the question of political subjectivation in both René Girard and Jacques Rancière’s work. In his recent engagement with Axel Honneth, Rancière clarifies his position on suffering and its importance for political emancipation. In response to Honneth’s claim that suffering is the key catalyst of political action, Rancière advances a thesis that it is not suffering itself but a different form of suffering that leads people towards emancipation. In his archival work on 19th century workers’ movements, he demonstrates that workers learned a new way to suffer through literature they studied in their spare time. The impulse for emancipatory political action did not come only from the fact of enduring hunger, low wages and poverty, but from learning a new, bourgeois form of experience through reading certain types of literature, like Chateaubriand’s René. In this contribution, I explore Rancière’s thesis on a new form of suffering from Girard’s mimetic perspective. I examine the appropriation of mimetic models by 19th century proletarians in Rancière’s work to become new political subjects. The contribution productively engages with political potential of Girard’s mimetic theory and at the same time explore mimetic aspects of Rancière’s thought. 
   
-*	“Über das Astronomische und das Mikroskopische: Sloterdijk und die Frage des Ausmaßes,” [Scaling up, Scaling down: Sloterdijk and the Question of Scale], *Pro-Fil: An Internet Journal of Philosophy* (Special Issue, 2017), 18–23. Doi.org/10.5817/pf17-3-1647<br> 
   
 *	<a href="../articles/Iwona Janicka_Are These Bubbles Anarchist_Anarchist Studies 24-1-2016.pdf" target="_blank">“Are These Bubbles Anarchist? Peter Sloterdijk’s Spherology and the Question of Anarchism,”</a> *Anarchist Studies* 24.1 (2016), 62–84.<br>
 
@@ -57,7 +56,7 @@ This article attempts to respond to the fractional presence of feminist discours
   
 *	<a href="../articles/Iwona Janicka_Homosocial bonds and narrative strategies_Romanica Silesiana_2013.pdf" target="_blank">“Homosocial Bonds and Narrative Strategies in Adolphe Belot’s Mademoiselle Giraud, ma femme (1870),”</a> *Romanica Silesiana. Gendered Constructions* 8 (2013), 138–150.<br>
 
-
+This article sets out to examine the rhetoric of narrative as an instrument of power in a 19th century bestseller by Adolphe Belot *Mademoiselle Giraud, ma femme* (1870).  The central question of Belot’s novel revolves around the crime of lesbian sexuality. It contrasts the idealized, socially prescribed heterosexual relationship of a married couple with a lesbian liaison depicted in the novel. This paper will demonstrate how the prevalent male homosocial discourse shapes the narrative and how the narrator reverts to, what I shall term, hyper-heterosexual narration in order to give legitimacy to his story and his desires. 
   
 *	<a href="../articles/Iwona Janicka_Hegel on a Carrousel_Published in Paragraph_ Nov 2013.pdf" target="_blank">“Hegel on a Carrousel: Universality and the Politics of Translation in the Work of Judith Butler,”</a> *Paragraph: A Journal of Modern Critical Theory* 36.3 (2013), 361–75.<br>
 

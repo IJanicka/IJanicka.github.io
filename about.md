@@ -25,7 +25,7 @@ My second book (in progress) deals with the question of how to think politics an
 
 **Education**<br>
 * Ph.D.	French Studies, University of Cambridge, Trinity Hall, UK, 2014<br>
-Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transformation with Judith Butler, René Girard, Peter Sloterdijk, and Alain Badiou*. Supervised by Ian James<br>
+Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transformation with Judith Butler, René Girard, Peter Sloterdijk, and Alain Badiou*. Supervised by Ian James. Fully funded by The Bill and Melinda Gates Cambridge Trust.<br>
 * M.Phil.	European Literature and Culture (First Class), University of Cambridge, 2009<br>
 * B.A.	Literary Theory and Comparative Literature (with distinction), Art History (minor), Ludwig-Maximilians-Universität München, Germany, 2008<br>
 

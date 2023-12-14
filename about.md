@@ -13,10 +13,11 @@ Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fell
 My work concentrates on twentieth- and twenty-first-century European philosophy, feminist philosophy, political philosophy and environmental philosophy. At the heart of my research lies the question of social transformation: How can we conceptualize and engage in politics that is relevant for the 21st century? In my first book, <a href="https://www.bloomsbury.com/uk/theorizing-contemporary-anarchism-9781474276191/" target="_blank">*Theorizing Contemporary Anarchism. Solidarity, Mimesis and Radical Social Change*</a> (Bloomsbury, 2017), I propose a theoretical framework that accounts for plural political practices in contemporary left-wing activism: collective housing projects, cooperative farms, autonomous zones. In my current research project, I focus on how politics is transformed in light of climate change. In my work, I attempt to articulate politics for more-than-human worlds, in which questions of collective solidarity and alternative socio-political practices play an important part. By engaging with thinkers within broadly considered posthumanities and environmental philosophy, I hope to capture a series of transformations that are taking place in philosophy, political practices, art and in our cognitive maps of the world. I am particularly interested in the works of Bruno Latour, Isabelle Stengers, Vinciane Despret, Peter Sloterdijk, Michel Serres, Alain Badiou, Jacques Rancière, René Girard and Gilbert Simondon as well as ecofeminist contributions to conceptualizing 'nonhuman politics'.<br>
 
 **Research expertise**<br>	
-* Continental Philosophy
-* Environmental Philosophy
-* Feminism and Gender Studies
-* Literary and Critical Theory  
+* Continental philosophy
+* Environmental philosophy
+* Feminist philosophy
+* Political and social philosophy
+* Literary and critical theory  
 * Posthumanism
 * Anarchism<br>
 

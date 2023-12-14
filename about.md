@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a researcher at the department of Aesthetics and Culture at Aarhus University (Denmark). Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fellow at Aarhus Institute of Advanced Studies (2019-2022) and British Academy Postdoctoral Fellow (2015–18) at the University of Warwick (UK). As Gates Scholar, I completed my PhD in French Studies at the University of Cambridge, Trinity Hall, in 2014. 
+I am a researcher at the department of Aesthetics and Culture at Aarhus University (Denmark). Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fellow at Aarhus Institute of Advanced Studies (2019-2022) and British Academy Postdoctoral Fellow (2015–18) at the University of Warwick (UK). As Gates Scholar, I completed my PhD in French Studies at the University of Cambridge. 
 
 **Research profile**<br>
 

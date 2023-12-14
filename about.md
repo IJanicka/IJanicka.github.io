@@ -53,7 +53,8 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 * Scholarship, LMU Munich and DAAD, to study at Seoul National University (South Korea) (2007–2008)<br>
 
 **Study stays and visiting research fellowships**<br>
-University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (Posthuman Aesthetics research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019)<br>
+
+University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (*Posthuman Aesthetics* research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019)<br>
 
 **Editorial Boards**
 

@@ -39,7 +39,7 @@ Thesis title: *Tribulations of Universality: Conceptualizing Slow Social Transfo
 Polish (native), English (fluent), German (fluent), French (fluent), Danish (advanced, C1 | *Studieprøven*), Russian (upper intermediate, B2), Czech (intermediate, B1)<br>
 
 
-**Funding, fellowships & awards** (selected)<br>
+**Funding and awards** (selected)<br>
 
 * The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
 * EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, Denmark (2019–2022)	<br>

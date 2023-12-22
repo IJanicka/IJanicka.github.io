@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-My teaching experience includes introductory courses and advanced seminars in continental philosophy, environmental humanities, feminism & gender studies, aesthetics and culture, literary theory and cultural theory. 
+I have taught widely within my area of specialism, including introductory courses and advanced seminars in contemporary political and social philosophy, feminist philosophy, environmental philosophy, contemporary aesthetic theory, literary theory and cultural theory.  
 
 <br>**Aarhus University, Denmark**<br>
 

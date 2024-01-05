@@ -4,7 +4,7 @@ title:  Publications
 permalink: /publications/
 ---
 
-<p>I have published in contemporary European philosophy: political philosopy, environmental philosophy, feminist philosophy and gender theory. With a background in comparative literature, literary theory and art history, as well as fluency in six languages, my basic approach is multilingual, comparatist and interdisciplinary. At the heart of my research lies the question social transformation.</p>
+<p>I have published in contemporary European philosophy: political and social philosopy, environmental philosophy and feminist philosophy. With a background in comparative literature, literary theory and art history, as well as fluency in six languages, my basic approach is multilingual, comparatist and interdisciplinary. At the heart of my research lies the question social transformation today.</p>
 <br>
 
   <h2>Monographs</h2>

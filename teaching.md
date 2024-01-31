@@ -5,6 +5,10 @@ permalink: /teaching/
 ---
 I have taught widely within my area of specialism, including introductory courses and advanced seminars in contemporary political and social philosophy, feminist philosophy, environmental philosophy, contemporary aesthetic theory, literary theory and cultural theory.  
 
+<br>**Goethe-University Frankfurt am Main, Germany**<br>
+
+Planetary Futures: Theory, Art, Pedagogy (designed, 2024, MA)
+
 <br>**Aarhus University, Denmark**<br>
 
 Women and Nature: Ecofeminism in Theory and Practice (designed, 2022–23)

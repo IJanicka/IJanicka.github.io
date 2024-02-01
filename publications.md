@@ -18,7 +18,10 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
   <h2>Journal articles</h2>
   
-  
+* "Coarticulation: Mutual Transformation in Human and Nonhuman Relations" (forthcoming in *SubStance*, Summer 2024)<br>
+
+“Representation” and “articulation” are important terms in discussions of multispecies relations. In this paper, I propose the term “coarticulation” that describes a process of mutual intelligibility between a human and a nonhuman and of rendering each other capable in new ways. This article argues that the concept of “coarticulation” offers a way to enrich our understanding of our human-nonhuman relations and to give ontological consistency to various types of nonhumans that matter to us. It traces the reciprocal imprints that nonhumans and humans make on each other. Not least, it provides an alternative way to think about politics with nonhumans: a politics of cohabitation.
+
 * “The Janus Face of Cosmopolitics: The Concept of Universality in Isabelle Stengers and Bruno Latour” (forthcoming in *Philosophy Today* 68.3, Spring 2024) <br>
 
 Scholars in multispecies ethnography, the ontological turn, new materialisms, science and technology studies (STS), assemblage urbanism and other movements within broadly considered posthumanities often treat cosmopolitics, initially proposed by Isabelle Stengers and subsequently taken up by Bruno Latour, as a single coherent concept. However, Stengers’ cosmopolitics differs considerably from Latour’s. The difference is most clearly visible in their contrasting positions on the concept of universality. Even though their divergence on universality could be considered a minor philosophical dispute among intellectual allies, it should not be underestimated. It determines what sort of political practice each of these philosophers envisions with cosmopolitics. Their visions of political practice are substantially different. This article examines Latour’s and Stengers’ diverging positions on universality, delineates the two types of cosmopolitics, and, finally, analyzes what sort of political practice each of these cosmopolitics implies.

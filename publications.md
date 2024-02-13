@@ -73,7 +73,7 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
   <h2>Chapters in edited volumes</h2>
   
-* <a href="../articles/Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed Wamberg and Thomsen_2020.pdf" target="_blank">“Nonhuman Politics and its Practices,”</a> *The Bloomsbury Handbook of Posthumanism*, eds. Jacob Wamberg and Mads Rosendahl Thomsen, London and New York: Bloomsbury Academic (2020), 129–140.<br>
+* <a href="../articles/Iwona Janicka_Nonhuman Politics and Its Practices_in The Bloomsbury Handbook of Posthumanism_ed Wamberg and Thomsen_2020.pdf" target="_blank">“Nonhuman Politics and its Practices,”</a> *The Bloomsbury Handbook of Posthumanism*, eds. Mads Rosendahl Thomsen and Jacob Wamberg, London and New York: Bloomsbury Academic (2020), 129–140.<br>
   
   <br>
 

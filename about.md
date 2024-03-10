@@ -44,7 +44,6 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Funding and awards** (selected)<br>
 
-* The International Visegrad Fellowship, Czech Republic (2024)<br>
 * The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
 * EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, Denmark (2019–2022)	<br>
 * Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>
@@ -58,7 +57,7 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Study stays and visiting research fellowships**<br>
 
-University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (*Posthuman Aesthetics* research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019), Institute of Philosophy of the Czech Academy of Sciences, Prague (2024)<br>
+University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (*Posthuman Aesthetics* research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019)<br>
 
 **Editorial Boards**
 

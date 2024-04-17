@@ -91,6 +91,8 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
  <h2>Book reviews</h2>
 
+* Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), forthcoming in *Journal of Political Power* 17(2) (Summer 2024)<br>
+
 * Benjamin Franks, *Anarchisms, Postanarchisms and Ethics* (London and New York: Rowman & Littlefield, 2020), forthcoming in *Anarchist Studies* (Spring 2024)<br>
 
 * <a href="../articles/Review by Iwona Janicka_Carlos Taibo_Rethining Anarchy_Anarchist Studies 30_2_2022.pdf" target="_blank">Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* </a>(AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<br>

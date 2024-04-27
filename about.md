@@ -58,7 +58,7 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Study stays and visiting research fellowships**<br>
 
-University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (*Posthuman Aesthetics* research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019), Institute of Philosophy of the Czech Academy of Sciences (2024), Goethe University Frankfurt am Main, Germany (2024), <br>
+University of Paris Sorbonne, France (2005–2006, Erasmus), Seoul National University, South Korea (2007–2008, DAAD), Hannover Institute for Philosophical Research, Germany (2015–2016), Aarhus University (*Posthuman Aesthetics* research group, 2016), Centre Marc Bloch Berlin, Germany (2018–2019), Institute of Philosophy of the Czech Academy of Sciences (2024), Goethe University Frankfurt am Main, Germany (2024) <br>
 
 **Editorial Boards**
 

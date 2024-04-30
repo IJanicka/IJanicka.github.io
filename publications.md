@@ -91,7 +91,7 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
  <h2>Book reviews</h2>
 
-* Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), forthcoming in *Journal of Political Power* 17(2) (Summer 2024)<br>
+* “Thinking Together: The Philosophical Alliance of Bruno Latour and Isabelle Stengers” a book review of Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), forthcoming in *Journal of Political Power* 17(2) (Summer 2024)<br>
 
 * Benjamin Franks, *Anarchisms, Postanarchisms and Ethics* (London and New York: Rowman & Littlefield, 2020), forthcoming in *Anarchist Studies* (Spring 2024)<br>
 

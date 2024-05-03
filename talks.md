@@ -8,7 +8,7 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
-* “Conceptualzing Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” *Philosophy Festival*, Prešov, Slovakia, 16 November 2023<br>
+* <a href="https://www.youtube.com/watch?v=lnHi66ESTkQ&t=60s" target="_blank"> “Conceptualzing Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” </a> *Philosophy Festival*, Prešov, Slovakia, 16 November 2023<br>
 
 * “Coarticulations: Towards a Politics of Cohabitation”, *Perpetual Peace Conference*, Ústí nad Labem, Czech Republic, 9-10 November 2023 <br>
 

@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a researcher at the department of Aesthetics and Culture at Aarhus University (Denmark). Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fellow at Aarhus Institute of Advanced Studies (2019-2022) and British Academy Postdoctoral Fellow (2015–18) at the University of Warwick (UK). As Gates Scholar, I completed my PhD in French Studies at the University of Cambridge. 
+I am Research Team Leader at the Center for Environmental and Technology Ethics - Prague <a href="https://cetep.eu" target="_blank">(CETE-P)</a>. Previously, I was Assistant Professor and EU Maria Skłodowska-Curie COFUND Fellow at Aarhus Institute of Advanced Studies (Denmark) and British Academy Postdoctoral Fellow at the University of Warwick (UK). As Gates Scholar, I completed my PhD in French Studies at the University of Cambridge. 
 
 **Research profile**<br>
 

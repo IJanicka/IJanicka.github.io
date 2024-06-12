@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Cosmopolitical Coarticulations”, Research Seminar, Dept. of Education, Goethe-University, Frankfurt am Main, Germany, 11 June 2024 <br>
+
 * <a href="https://www.youtube.com/watch?v=lnHi66ESTkQ&t=60s" target="_blank"> “Conceptualzing Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” </a> *Philosophy Festival*, Prešov, Slovakia, 16 November 2023<br>
 
 * “Coarticulations: Towards a Politics of Cohabitation”, *Perpetual Peace Conference*, Ústí nad Labem, Czech Republic, 9-10 November 2023 <br>

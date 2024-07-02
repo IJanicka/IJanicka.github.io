@@ -45,7 +45,7 @@ permalink: /talks/
 
 **Conference papers**<br>
   
-* “Supporting Social Transformation in the Anthropocene” *Becoming One Planet – Space and Time in the Anthropocene*, l’Université catholique de l’Ouest, Angers, France, 1-3 July 2024 <br>
+* “Supporting Social Transformation in the Anthropocene” *Becoming One Planetary – Space and Time in the Anthropocene*, l’Université catholique de l’Ouest, Angers, France, 1-3 July 2024 <br>
 
 * “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” *Anarchist Studies Network* Conference, Loughborough University, UK, 12–14 September 2018<br>
   

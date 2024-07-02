@@ -45,6 +45,8 @@ permalink: /talks/
 
 **Conference papers**<br>
   
+* “Supporting Social Transformation in the Anthropocene” *Becoming One Planet – Space and Time in the Anthropocene*, l’Université catholique de l’Ouest, Angers, France, 1-3 July 2024 <br>
+
 * “Repetition-Singularity-Solidarity. An Addendum to Daniel Colson’s Petit lexique philosophique de l’anarchisme,” *Anarchist Studies Network* Conference, Loughborough University, UK, 12–14 September 2018<br>
   
 * “Solidarity with Singularity and Anarchist Collectives,” *The Politics of Plasticity: On Solidarity and Mutual Aid with Catherine Malabou*, The Czech Academy of Sciences, Prague, 23–24 February 2018<br>

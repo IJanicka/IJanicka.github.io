@@ -91,7 +91,7 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
 <h2>Interviews</h2>
 
-*	Vinciane Despret, Stephen Muecke and Iwona Janicka,“A Question Rarely Lives up to its Situation. Interview with Vinciane Despret” (forthcoming in *Theory, Culture & Society*)
+*Vinciane Despret, Stephen Muecke and Iwona Janicka, “A Question Rarely Lives up to its Situation. Interview with Vinciane Despret” (forthcoming in *Theory, Culture & Society*)
 <br>
 
  <h2>Book reviews</h2>

@@ -89,6 +89,11 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 * <a href="https://link.springer.com/referenceworkentry/10.1007/978-94-007-6730-0_1081-1" target="_blank">"Anarchism"</a> *Encyclopaedia of the Philosophy of Law and Social Philosophy*, eds. Mortimer Sellers, Stephan Kirste, Dordrecht: Springer (2023) doi.org/10.1007/978-94-007-6730-0_1081-1<br>
 <br>
 
+<h2>Interviews</h2>
+
+*	Vinciane Despret, Stephen Muecke and Iwona Janicka,“A Question Rarely Lives up to its Situation. Interview with Vinciane Despret” (forthcoming in *Theory, Culture & Society*)
+<br>
+
  <h2>Book reviews</h2>
 
 * <a href="https://www.tandfonline.com/doi/full/10.1080/2158379X.2024.2349935" target="blank"> “Thinking Together: The Philosophical Alliance of Bruno Latour and Isabelle Stengers” <a/> a book review of Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), *Journal of Political Power* 17(2) (Summer 2024), https://doi.org/10.1080/2158379X.2024.2349935<br>

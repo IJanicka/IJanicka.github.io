@@ -43,7 +43,7 @@ permalink: /talks/
 
 **Podcasts**<br>	
 
-* <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Host: Magdalena Trusinová </a> *Vlákna*
+* <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Host: Magdalena Trusinová </a>, <a href="https://open.spotify.com/show/5Vu8y1uboRg3DRelmH9zPI" target="_blank">*Vlákna*</a>
 
 **Conference papers**<br>
   

@@ -45,6 +45,7 @@ permalink: /talks/
 
 * <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Host: Magdalena Trusinová at <a href="https://open.spotify.com/show/5Vu8y1uboRg3DRelmH9zPI" target="_blank">*Vlákna*</a>
 
+
 **Conference papers**<br>
   
 * “Supporting Social Transformation in the Anthropocene” *Becoming One Planetary – Space and Time in the Anthropocene*, l’Université catholique de l’Ouest, Angers, France, 1-3 July 2024 <br>

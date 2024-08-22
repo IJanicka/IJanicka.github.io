@@ -41,7 +41,9 @@ permalink: /talks/
 * “Critique vs. Affirmation: Foucault, Sloterdijk and the Possibilities of Formulating an Affirmative Theory after Poststructuralism,” Forschungsinstitut für Philosophie Hannover, Germany, 4 December 2014<br>
 <br>
 
+**Podcasts**<br>	
 
+* <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Host: Magdalena Trusinová </a> *Vlákna*
 
 **Conference papers**<br>
   

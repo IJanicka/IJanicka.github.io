@@ -7,6 +7,10 @@ permalink: /events/
 
 I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
+**Co-organizer of an international conference in environmental ethics**<br>
+<a href="https://cetep.eu/news/cfa-rethinking-wild-europe/" target="_blank"><i>Rethinking Wild Europe:
+European Perspectives on Wilderness, Rewilding and Biodiversity Conservation</i></a>, The International Society for Environmental Ethics (ISEE) and the Center for Environmental and Technology Ethics - Prague (CETE-P) joint Winter Workshop 2025, organized with Leonie Bossert (ISEE), Linde De Vroey (ISEE) and Petr Urban (CETE-P), University of Vienna (Austria), 7-8 February 2025, Call for papers   
+
 **Co-organizer of an international conference in environmental humanities**<br>
 <a href="https://aias.au.dk/events/earth-sensations" target="_blank"><i>Earth Sensations: Affects, Sensibilities and Attachments in an Era of Climate Change</i></a> (with Tobias Skiveren), keynotes: <a href="https://politicalscience.jhu.edu/directory/jane-bennett/" target="_blank">Jane Bennett</a>, <a href="https://alexisshotwell.com" target="_blank">Alexis Shotwell</a>, <a href="https://english.fullerton.edu/faculty/profile/n_seymour.aspx" target="_blank">Nicole Seymour</a>; Aarhus Institute of Advanced Studies, Denmark, 13-14 October 2022 (funded by the Carlsberg Foundation, Aarhus Institute of Advanced Studies & Aarhus University) - <a href="../articles/CfP_Conference_Earth Sensations_AIAS_AU_KN.pdf" taget="_blank">Call for papers</a>
 

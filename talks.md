@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* Inaugural lecture at the Czech Academy of Sciences: <a href="https://cetep.eu/iwona-janicka-ecological-grand-narratives/" target="_blank" "Ecological Grand Narratives. Cohabitability with More-than-Human Worlds" </a>, Czech Academy of Sciencees, 10 October 2024, poster <br>
+  
 * “Cosmopolitical Coarticulations”, Research Seminar, Dept. of Education, Goethe-University, Frankfurt am Main, Germany, 11 June 2024 <br>
 
 * <a href="https://www.youtube.com/watch?v=lnHi66ESTkQ&t=60s" target="_blank"> “Conceptualzing Anarchist Collectives: Solidarity with Singularity and Mimetic Contagion,” </a> *Philosophy Festival*, Prešov, Slovakia, 16 November 2023<br>

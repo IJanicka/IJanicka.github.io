@@ -20,7 +20,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
   <h2>Journal articles</h2>
   
-* <a href="https://muse.jhu.edu/pub/1/article/934261" target="_blank"> "Coarticulation: Mutual Transformation in Human and Nonhuman Relations" </a> (*SubStance* 53.2 (2024), 38-58)<br>
+* <a href="https://muse.jhu.edu/pub/1/article/934261" target="_blank"> "Coarticulation: Mutual Transformation in Human and Nonhuman Relations" </a> (*SubStance* 53.2 (2024), 38-58, https://dx.doi.org/10.1353/sub.2024.a934261)<br>
 
 “Representation” and “articulation” are important terms in discussions of multispecies relations. In this paper, I propose the term “coarticulation” that describes a process of mutual intelligibility between a human and a nonhuman and of rendering each other capable in new ways. This article argues that the concept of “coarticulation” offers a way to enrich our understanding of our human-nonhuman relations and to give ontological consistency to various types of nonhumans that matter to us. It traces the reciprocal imprints that nonhumans and humans make on each other. Not least, it provides an alternative way to think about politics with nonhumans: a politics of cohabitation. This piece engages closely with Vinciane Despret's work.
 

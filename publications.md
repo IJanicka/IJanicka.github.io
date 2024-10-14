@@ -24,7 +24,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 
 “Representation” and “articulation” are important terms in discussions of multispecies relations. In this paper, I propose the term “coarticulation” that describes a process of mutual intelligibility between a human and a nonhuman and of rendering each other capable in new ways. This article argues that the concept of “coarticulation” offers a way to enrich our understanding of our human-nonhuman relations and to give ontological consistency to various types of nonhumans that matter to us. It traces the reciprocal imprints that nonhumans and humans make on each other. Not least, it provides an alternative way to think about politics with nonhumans: a politics of cohabitation. This piece engages closely with Vinciane Despret's work.
 
-Access on the <a href=https://substance.org/article/4692" target="_blank"> SubStance website </a>, access on <a href=https://zenodo.org/records/13930547" target="_blank"> Zenodo</a> (Author's Accepted Manuscript) <br>
+Access on the <a href="https://substance.org/article/4692" target="_blank"> SubStance website </a>, access on <a href="https://zenodo.org/records/13930547" target="_blank"> Zenodo</a> (Author's Accepted Manuscript) <br>
 
 * <a href="https://repository.library.georgetown.edu/bitstream/handle/10822/1088561/Habitability%20Planetarity%20vs%20Cosmopolitics%20-%20Iwona%20Janicka.pdf?sequence=1&isAllowed=y" target="_blank"> "Habitability: Planetarity vs Cosmopolitics" </a> (*Migrating Minds: Journal of Cultural Cosmopolitanism* 2.1 (2024),4–25) <br>
 

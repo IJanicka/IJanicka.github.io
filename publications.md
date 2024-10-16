@@ -100,7 +100,7 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
 * <a href="https://www.tandfonline.com/doi/full/10.1080/2158379X.2024.2349935" target="blank"> “Thinking Together: The Philosophical Alliance of Bruno Latour and Isabelle Stengers” <a/> a book review of Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), *Journal of Political Power* 17(2) (Summer 2024), https://doi.org/10.1080/2158379X.2024.2349935<br>
 
-* Benjamin Franks, *Anarchisms, Postanarchisms and Ethics* (London and New York: Rowman & Littlefield, 2020), forthcoming in *Anarchist Studies* (Spring 2024)<br>
+* Benjamin Franks, Anarchisms, Postanarchisms and Ethics (London and New York: Rowman & Littlefield, 2020), Anarchist Studies 32.2 (2024): 116-118. https://doi.org/10.3898/AS.32.2.REVIEWS <br>
 
 * <a href="../articles/Review by Iwona Janicka_Carlos Taibo_Rethining Anarchy_Anarchist Studies 30_2_2022.pdf" target="_blank">Carlos Taibo, *Rethinking Anarchy: Direct Action, Autonomy, Self-Management* </a>(AK Press, 2018, translated by the Autonomous Collective), *Anarchist Studies* 30.2 (2022): 95-96. DOI: 10.3898/AS.30.2.REV.01<br>
 

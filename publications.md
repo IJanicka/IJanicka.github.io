@@ -92,7 +92,7 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
 <h2>Interviews</h2>
 
-* Muecke, Stephen and Iwona Janicka, <a href="https://journals.sagepub.com/doi/10.1177/02632764241275484" target="blank"> “An Interview with Vinciane Despret: A Question Rarely Lives up to its Situation” <a/> (*Theory, Culture & Society*, 2024) doi.org/10.1177/02632764241275<br>
+* Muecke, Stephen and Iwona Janicka, <a href="https://journals.sagepub.com/doi/10.1177/02632764241275484" target="blank"> “An Interview with Vinciane Despret: A Question Rarely Lives up to its Situation” <a/> *Theory, Culture & Society*, 41. 5 (2024): 135–141. doi.org/10.1177/02632764241275<br>
 
 * Vinciane Despret, Iwona Janicka and Stephen Muecke, “Animals Give Us a Body We Didn’t Have. An Interview with Vinciane Despret” (forthcoming in *Environmental Humanities* 17.3 (2025)) <br>
 

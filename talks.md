@@ -51,7 +51,7 @@ permalink: /talks/
 * <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Podcast host: Magdalena Trusinová at <a href="https://open.spotify.com/show/5Vu8y1uboRg3DRelmH9zPI" target="_blank">*Vlákna*</a>, July 2024
 <br>
 
-**Conference papers**<br>
+**Conference papers** (in the last decade, selected) <br>
   
 * “Ecofeminist Grand Narratives? Cohabitability with More-than-human Worlds”, *Imagining Planetary Health, Well-Being, and Habitability. Perspectives from the Environmental Humanities*, Rachel Carson Center Munich, Germany,  2-4 October 2024.<br>
 
@@ -77,17 +77,7 @@ permalink: /talks/
   
 * “The Limits of Posthumanism. How to Translate Ontology into Politics?” Research Seminar, Forschungsinstitut für Philosophie Hannover, 4 June 2015<br>
   
-* “How About Solidarity? Contemporary Social Movements in a Philosophical Framework,” Workshop Riots IV – *Riots and Anarchy*, Institut für Protest- und Bewegungsforschung [Research Institute for Protest and Social Movements], Zentrum für Technik und Wissenschaft, TU Berlin, Germany, 28 November 2014<br>
-  
-* “Points of Departure – Points of no Return. Peter Sloterdijk’s Negative Gynaecology and its Potential for Constructing Non-Anthropocentric Frameworks,” ADEFFI 16th Annual Conference 2014: *Origins*, Trinity College Dublin, Ireland, 17 October 2014<br>
-  
-* “Is There an Anarchist in This Closet? Understanding Contemporary Anarchism with Judith Butler and Peter Sloterdijk,” *Enlightened Anarchism* Conference, Lapland University, Finland, 13 September 2014<br>
-  
-* “The Most French of the German Philosophers: Peter Sloterdijk’s Borderless Theory of Foams and Bubbles,” Frontiers Conference: *French Theory in the Twentieth and Twenty-First Centuries*. University of Oxford, UK, 8 July 2013.<br>
-  
-* “Cutting the Cords – Re-thinking Judith Butler's Position on Transgender with René Girard's Theory of Mimesis,” *Altered Self and Altered Self-Experience* International Workshop. New University of Lisbon, Portugal, 30 May 2013<br>
-  
-* “Why Equality is No Good – Judith Butler and Politics of Asymmetry,” Graduate Political Theory Conference: *The Politics of Equality*. University of Oxford, UK, 25 April 2013<br>
+
 <br>
 
 

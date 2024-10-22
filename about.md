@@ -58,10 +58,11 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Visiting research fellowships**<br>
 
-* Hannover Institute for Philosophical Research, Germany (2015–2016)<br>
-* Aarhus University, Denmark (*Posthuman Aesthetics* research group) (2016)<br>
-* Centre Marc Bloch Berlin, Germany (2018–2019)<br>
 * Goethe University Frankfurt am Main, Germany (Guest Lectureship, 2024) <br>
+* Centre Marc Bloch Berlin, Germany (2018–2019)<br>
+* Aarhus University, Denmark (*Posthuman Aesthetics* research group) (2016)<br>
+* Hannover Institute for Philosophical Research, Germany (2015–2016)<br>
+
 
 **Editorial Boards**
 

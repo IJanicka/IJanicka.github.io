@@ -54,6 +54,8 @@ permalink: /talks/
 
 **Conference papers** (in the last decade, selected) <br>
   
+* “Cosmopolitical Coarticulations: How to Think More-than-Human Politics of Cohabitation?” (in Polish), *Political Imaginary: Theories, Ideas, Practices* (Wyobraźnia polityczna. Teorie, idee, praktyki), University of Wrocław, Poland, 21-22 October 2024.<br>
+
 * “Ecofeminist Grand Narratives? Cohabitability with More-than-human Worlds”, *Imagining Planetary Health, Well-Being, and Habitability. Perspectives from the Environmental Humanities*, Rachel Carson Center Munich, Germany,  2-4 October 2024.<br>
 
 * “Supporting Social Transformation in the Anthropocene” *Becoming One Planetary – Space and Time in the Anthropocene*, l’Université catholique de l’Ouest, Angers, France, 1-3 July 2024 <br>

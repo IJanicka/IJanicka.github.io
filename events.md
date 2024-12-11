@@ -11,7 +11,7 @@ I have organised several international workshops and conferences in European phi
 <a href="https://cetep.eu/news/cfa-rethinking-wild-europe/" target="_blank"><i>Rethinking Wild Europe:
 European Perspectives on Wilderness, Rewilding and Biodiversity Conservation</i></a>, The International Society for Environmental Ethics (ISEE) and the Center for Environmental and Technology Ethics - Prague (CETE-P) joint conference (with Leonie Bossert, Linde De Vroey and Petr Urban), University of Vienna, Austria, 7-8 February 2025, - <a href="../articles/CfA-Rethinking Wild Europe-4.pdf" taget="_blank">Call for papers</a>   
 
-**Co-organizer for a workshop in posthumanities and new materialisms**<br>
+**Co-organizer of a workshop in posthumanities and new materialisms**<br>
 <a href="https://cetep.eu/posthuman-earth-feminist-and-critical-posthuman-approaches-to-climate-change/" target="_blank"><i>Posthuman Earth. Feminist and Critical Posthuman Approaches to Climate Change</i></a> (with Monika Rogowska-Stangret), Center for Environment and Technology Ethics - Prague (CETE-P), Czech Academy of Sciences, Prague, 16 January 2025.<br>
 
 **Co-organizer of an international conference in environmental humanities**<br>

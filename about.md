@@ -50,7 +50,7 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 * Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>
 * Creative Exchange Impact Grant, Universities of Warwick & Coventry, UK (2018)<br>
 *	British Academy Postdoctoral Fellowship, University of Warwick, UK (2015–2018)<br>
-*	Full PhD Funding from The Bill and Melinda Gates Cambridge Trust, UK (2010–2014)<br>
+*	Full PhD Funding from the Bill and Melinda Gates Cambridge Trust, UK (2010–2014)<br>
 * Scholarship, Studienstiftung des deutschen Volkes, Germany (2010)<br>
 * Scholarship *Studienkolleg zu Berlin*, Germany (2009–2010)<br>
 

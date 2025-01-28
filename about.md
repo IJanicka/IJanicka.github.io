@@ -56,7 +56,7 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Visiting research fellowships**<br>
 
-* Forum Basilense, Basel University, Switzerland (Senior Fellowship, June-July 2025)<br>
+* Forum Basiliense, Basel University, Switzerland (Senior Fellowship, June-July 2025)<br>
 * Goethe University Frankfurt am Main, Germany (Guest Lectureship, July 2024) <br>
 * Centre Marc Bloch Berlin, Germany (2018–2019)<br>
 * Aarhus University, Denmark (*Posthuman Aesthetics* research group) (2016)<br>

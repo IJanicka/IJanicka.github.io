@@ -44,7 +44,7 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Funding and awards** (selected)<br>
 
-* The International Visegrad Fund Grant, the Czech Republic (2025) <br>
+* The International Visegrad Fund Grant, Czech Republic (2025) <br>
 * The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
 * EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, Denmark (2019–2022)	<br>
 * Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>

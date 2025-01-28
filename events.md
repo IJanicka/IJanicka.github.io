@@ -8,7 +8,7 @@ permalink: /events/
 I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
 **Co-organizer of an international workshop in political philosophy**<br>
-<i>Politics of Counter Catastrophe. Reconfiguring Freedom for the Future</i><a/>, Workshop with Wendy Brown and Eva von Redecker (organized with Jan Bierhanzl), CETE-P, Czech Academy of Sciences, Prague, 23 May 2025 (co-funded by Czech-German Zukunfsfond), <a href="https://cetep.eu/news/cfp-politics-of-counter-catastrophe-reconfiguring-freedom-for-the-future/" target="_blank">Call for papers,<a/><br>
+<i>Politics of Counter Catastrophe. Reconfiguring Freedom for the Future</i><a/>, Workshop with Wendy Brown and Eva von Redecker (organized with Jan Bierhanzl), CETE-P, Czech Academy of Sciences, Prague, 23 May 2025 (co-funded by the Czech-German Zukunfsfond), <a href="https://cetep.eu/news/cfp-politics-of-counter-catastrophe-reconfiguring-freedom-for-the-future/" target="_blank">Call for papers,<a/><br>
 
 **Co-organizer of an international conference in environmental ethics**<br>
 <a href="https://cetep.eu/rethinking-wild-europe/" target="_blank"><i>Rethinking Wild Europe:

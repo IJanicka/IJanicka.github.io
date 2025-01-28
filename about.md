@@ -44,21 +44,20 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Funding and awards** (selected)<br>
 
-* The International Visegrad Fellowship, the Czech Republic (2024) <br>
+* The International Visegrad Fund Grant, the Czech Republic (2025) <br>
 * The Carlsberg Foundation Conference Grant, Denmark (2022)<br>
 * EU Maria Skłodowska-Curie Actions COFUND Fellowship, Aarhus University, Denmark (2019–2022)	<br>
 * Early Career Innovation Fellowship Award, IAS, University of Warwick, UK (2018–2019)<br>
 * Creative Exchange Impact Grant, Universities of Warwick & Coventry, UK (2018)<br>
 *	British Academy Postdoctoral Fellowship, University of Warwick, UK (2015–2018)<br>
 *	Full PhD Funding from The Bill and Melinda Gates Cambridge Trust, UK (2010–2014)<br>
-*	Board of Graduate Studies Fieldwork Funding, University of Cambridge, UK (2012–2013)<br>
 * Scholarship, Studienstiftung des deutschen Volkes, Germany (2010)<br>
 * Scholarship *Studienkolleg zu Berlin*, Germany (2009–2010)<br>
-* Scholarship, LMU Munich and DAAD, to study at Seoul National University (South Korea) (2007–2008)<br>
 
 **Visiting research fellowships**<br>
 
-* Goethe University Frankfurt am Main, Germany (Guest Lectureship, 2024) <br>
+* Forum Basilense, Basel University, Switzerland (Senior Fellowship, June-July 2025)<br>
+* Goethe University Frankfurt am Main, Germany (Guest Lectureship, July 2024) <br>
 * Centre Marc Bloch Berlin, Germany (2018–2019)<br>
 * Aarhus University, Denmark (*Posthuman Aesthetics* research group) (2016)<br>
 * Hannover Institute for Philosophical Research, Germany (2015–2016)<br>

@@ -10,6 +10,10 @@ I have taught widely within my area of specialism, including introductory course
 
 Co-organizer and lecturer (2024-present)
 
+<br>**Visegrad Environmental Philosophy Summer School**<br>
+
+Co-organizer and lecturer (2024-present)
+
 <br>**Goethe University Frankfurt am Main, Germany**<br>
 
 Planetary Futures: Theory, Art, Pedagogy (designed, 2024, MA)

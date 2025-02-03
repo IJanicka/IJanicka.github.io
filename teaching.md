@@ -7,14 +7,9 @@ I have taught widely within my area of specialism, including introductory course
 
 
 
-
-<br>**Visegrad Environmental Philosophy Summer School <a href="https://vepss.eu" target="_blank">VEPSS<a/>**<br>
-
-Co-organizer and lecturer (2024-present)
-
 <br>**Visegrad Environmental Philosophy Summer School VEPSS**<br>
 
-Co-organizer and lecturer (2024-present)
+Co-organizer and lecturer (2024-present), <a href="https://vepss.eu" target="_blank">VEPSS website<a/>
 
 <br>**Goethe University Frankfurt am Main, Germany**<br>
 

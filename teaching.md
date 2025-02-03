@@ -3,7 +3,11 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I have taught widely within my area of specialism, including introductory courses and advanced seminars in contemporary political and social philosophy, feminist philosophy, environmental philosophy, contemporary aesthetic theory, literary theory and cultural theory.  
+I have taught widely within my area of specialism, including introductory courses and advanced seminars in contemporary political and social philosophy, feminist philosophy, environmental philosophy, contemporary aesthetic theory, literary theory and cultural theory.<br>
+
+<br>**Visegrad Environmental Philosophy Summer School (VEPSS)** <br>
+
+Co-organizer and lecturer (2024-present)
 
 <br>**Goethe University Frankfurt am Main, Germany**<br>
 

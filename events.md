@@ -7,6 +7,9 @@ permalink: /events/
 
 I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
+**Co-organizer of an international conference in philosophy of ecology & technology**<br>
+<i>Cohabitability: Technologies and Ecologies of Living on Earth</i><a/> (organized with Mark Coeckelbergh and Petr Urban), keynotes: Noortje Marres, Jussi Parikka, Joanna Żylińska, Center for Environmental and Technology Ethics - Prague (CETE-P), 8-10 October 2025. <a href="../articles/CETE-P_CfP_Cohabitability_FINAL.pdf" taget="_blank">Call for papers</a>, <a href="https://cetep.eu/cohabitability-ecologies-and-technologies-of-living-on-earth/" target="_blank">Call for papers at the CETE-P website<a/> <br>
+
 **Co-organizer of an international workshop in political philosophy**<br>
 <i>Politics of Counter Catastrophe. Reconfiguring Freedom for the Future</i><a/>, Workshop with Wendy Brown and Eva von Redecker (organized with Jan Bierhanzl), CETE-P, Czech Academy of Sciences, Prague, 23 May 2025 (co-funded by the Czech-German Zukunfsfond), <a href="https://cetep.eu/news/cfp-politics-of-counter-catastrophe-reconfiguring-freedom-for-the-future/" target="_blank">Call for papers at the CETE-P website<a/>, <a href="../articles/CfP_Politics of Counter Catastrophe_CETE-P_Prague_22.5.2025.pdf" taget="_blank">Call for papers as a pdf</a> <br>
 

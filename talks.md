@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Ecofeminist Grand Narratives? Cohabitability with More-than-Human Worlds”, Philosophy Colloquium, Bergische University Wuppertal, Germany, April 28 2025. <br>
+
 * “Cosmopolitical Coarticulations: How to Think More-than-Human Politics of Cohabitation”, Centre for Ethics as Study of Human Value, University of Pardubice, Czech Republic, 5 November 2024. <br>
   
 * Inaugural Lecture at the Czech Academy of Sciences: <a href="https://www.youtube.com/watch?v=KifI20sVNz8&list=PL6tK2CutTH9-PFB8ZlVapfgOPtE0DOSWB&index=26" target="_blank"> "Ecological Grand Narratives. Cohabitability with More-than-Human Worlds"</a>, Czech Academy of Sciences, 10 October 2024,<a href="../articles/iwona_poster3.pdf" target="_blank"> poster<a/> <br>

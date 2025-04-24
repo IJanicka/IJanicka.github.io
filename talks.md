@@ -8,7 +8,7 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
-* “Ecofeminist Grand Narratives? Cohabitability with More-than-Human Worlds”, Philosophy Colloquium, Bergische University Wuppertal, Germany, April 28 2025. <br>
+* “Ecofeminist Grand Narratives? Cohabitability with More-than-Human Worlds”, Philosophy Colloquium, Bergische University Wuppertal, Germany, 28 April 2025. <br>
 
 * “Cosmopolitical Coarticulations: How to Think More-than-Human Politics of Cohabitation”, Centre for Ethics as Study of Human Value, University of Pardubice, Czech Republic, 5 November 2024. <br>
   

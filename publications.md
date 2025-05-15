@@ -98,6 +98,8 @@ Fredric Jameson, in his Foreword to the English translation of Greimas’ “On 
 
  <h2>Book reviews</h2>
 
+* <a href="../articles/Janicka_Review of Stengers' Virgin Mary_STS_May 2025.pdf" target="_blank">Isabelle Stengers, *Virgin Mary and the Neutrino*,</a> translated by Andrew Goffey (Durham and London: Duke University Press, 2023), *Sciences & Technology Studies* 38.2 (2025): 73–76. doi: 10.23987/sts.155619<br> 
+
 * <a href="https://www.tandfonline.com/doi/full/10.1080/2158379X.2024.2349935" target="blank"> “Thinking Together: The Philosophical Alliance of Bruno Latour and Isabelle Stengers” <a/> a book review of Philippe Pignarre, *Latour-Stengers. An Entangled Flight*, translated by Stephen Muecke (Cambridge: Polity Press, 2023), *Journal of Political Power* 17(2) (2024): 215-221. https://doi.org/10.1080/2158379X.2024.2349935<br>
 
 * <a href="../articles/Janicka_Review of B. Franks_Anarchist Studies 32.2_2024.pdf" target="_blank">Benjamin Franks, Anarchisms, Postanarchisms and Ethics </a> (London and New York: Rowman & Littlefield, 2020), Anarchist Studies 32.2 (2024): 116-118. DOI: 10.3898/AS.32.2.REVIEWS <br>

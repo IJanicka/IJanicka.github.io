@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Reinventing the Left? Bruno Latour and Peter Sloterdijk’s Political Philosophies for the 21st Century”, Philosophies of Bruno Latour, EHESS, Paris, 6 June 2025. <br>
+
 * “Ecofeminist Grand Narratives? Cohabitability with More-than-Human Worlds”, Philosophy Colloquium, Bergische University Wuppertal, Germany, 28 April 2025. <br>
 
 * “Cosmopolitical Coarticulations: How to Think More-than-Human Politics of Cohabitation”, Centre for Ethics as Study of Human Value, University of Pardubice, Czech Republic, 5 November 2024. <br>

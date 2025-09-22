@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* "Philosophy in Action: Bruno Latour’s Philosophical Method in a Time of Climate Crisis”, Charles University Philosophy Summer School, Svátý Jan pod Skalou, Czech Republic, 21 September 2025. <br>
+
 * “Reinventing the Left? Bruno Latour and Peter Sloterdijk’s Political Philosophies for the 21st Century”, *Philosophies of Bruno Latour*, EHESS, Paris, 6 June 2025. <br>
 
 * “Ecofeminist Grand Narratives? Cohabitability with More-than-Human Worlds”, *Philosophy Colloquium*, Bergische University Wuppertal, Germany, 28 April 2025. <br>
@@ -89,19 +91,3 @@ permalink: /talks/
 
 <br>
 
-
-**Departmental talks**	
-
-* “World-Building. Towards a Constructive Notion of Philosophy,” *AIAS Seminar*, Aarhus Institute of Advanced Studies, Denmark, 7 December 2020<br>
- 
-* “Postkritik: Philosophische Konturen eines Begriffs,” [Postcritique: Contours of a Philosophical Concept] Centre Marc Bloch, Berlin, Germany, 12 December 2018<br>
-
-* Book discussion of Elettra Stimilli’s *The Debt of the Living* (SUNY Press, 2017), in conversation with Elettra Stimilli (Roma La Sapienza) and Antonio Cerella (Kingston), University of Warwick, UK, 4 May 2017.<br>
-
-* “Magnetisers, Hypnotists and Magic Hands: Philosophical Perspectives on Pseudoscience from the Renaissance until Today,” Short papers with Cecilia Muratori and Alessandra Aloisi (Italian Studies); *SMLC Lunch Time* Research Seminar, 7 March 2017<br>
-
-* “Solidarity with Singularity and Contemporary Anarchism,” *French Graduate Research Seminar* University of Cambridge, UK, 3 December 2013<br>
-
-* “Hegel on a Carrousel: Universality in Triangulation in Judith Butler’s Work,” *French Graduate Research Seminar*, University of Cambridge, UK, 27 November 2012<br>
-
-* “Autobiography – a Theoretical Encounter between Paul de Man and Jean Améry,” *German Graduate Research Seminar*, University of Cambridge, UK, 9 March 2009<br>

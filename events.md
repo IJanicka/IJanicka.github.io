@@ -10,6 +10,7 @@ I have organised several international workshops and conferences in European phi
 **Co-organizer of a workshop on contemporary feminist ecology**<br>
 Thinking about the Living: Workshop in Contemporary Feminist Political Ecology (with Mateusz Chmurski), keynotes: Fatima Ouassak, Christina Kkona, French Research Center in Humanities and Social Sciences – Prague (CEFRES), Funded by the French Ministry of Higher Education and Research, 20 November 2025. (in French)
 
+<img src="../images/Poster_Cohabitability_Conference_Oct_2025.png" width="400px" align="right" style="margin: 20px 0px 20px 20px"/>
 **Co-organizer of an international conference in philosophy of ecology & technology**<br>
 <a href="https://cetep.eu/cohabitability-ecologies-and-technologies-of-living-on-earth/" target="_blank"><i>Cohabitability: Technologies and Ecologies of Living on Earth </i><a/> (organized with Mark Coeckelbergh and Petr Urban), keynotes: <a href="https://warwick.ac.uk/fac/cross_fac/cim/people/noortje-marres/" target= "_blank">Noortje Marres<a/>, <a href="https://pure.au.dk/portal/en/persons/parikka%40cc.au.dk" target= "_blank">Jussi Parikka<a/>, <a href="https://www.kcl.ac.uk/people/joanna-zylinska" target= "_blank">Joanna Żylińska<a/>, Center for Environmental and Technology Ethics - Prague (CETE-P), 8-10 October 2025.<br>
 

@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Ecofeminist Grand Narratives? How to Coarticulate Worlds with Non-Humans” (in Polish), Nicolaus Copernicus University Toruń, Poland, 22 October 2025. <br>
+  
 * "Philosophy in Action: Bruno Latour’s Philosophical Method in a Time of Climate Crisis”, Charles University Philosophy Summer School, Svátý Jan pod Skalou, Czech Republic, 21 September 2025. <br>
 
 * “Reinventing the Left? Bruno Latour and Peter Sloterdijk’s Political Philosophies for the 21st Century”, *Philosophies of Bruno Latour*, EHESS, Paris, 6 June 2025. <br>

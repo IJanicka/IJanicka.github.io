@@ -103,7 +103,7 @@ Climate change is challenging our key political concepts. In response to this ch
 
 * Muecke, Stephen and Iwona Janicka, <a href="https://journals.sagepub.com/doi/10.1177/02632764241275484" target="blank"> “An Interview with Vinciane Despret: A Question Rarely Lives up to its Situation” <a/> *Theory, Culture & Society*, 41. 5 (2024): 135–141. doi.org/10.1177/02632764241275<br>
 
-* Vinciane Despret, Iwona Janicka and Stephen Muecke, <a href="https://read.dukeupress.edu/environmental-humanities/article/17/3/705/404422/Animals-Give-Us-a-Body-We-Didn-t-HaveAn-Interview?guestAccessKey=3eaba8f4-21ab-4846-af1c-0c9e017c6909" target="blank"> “Animals Give Us a Body We Didn’t Have. An Interview with Vinciane Despret”<a/> *Environmental Humanities* 17.3 (2025): 705-712 <br>
+* Vinciane Despret, Iwona Janicka and Stephen Muecke, <a href="https://read.dukeupress.edu/environmental-humanities/article/17/3/705/404422/Animals-Give-Us-a-Body-We-Didn-t-HaveAn-Interview?guestAccessKey=3eaba8f4-21ab-4846-af1c-0c9e017c6909" target="blank"> “Animals Give Us a Body We Didn’t Have. An Interview with Vinciane Despret”<a/> *Environmental Humanities* 17.3 (2025): 705-712. doi.org/10.1215/22011919-11942118  <br>
 
  <h2>Book reviews</h2>
 

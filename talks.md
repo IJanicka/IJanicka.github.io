@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Planetary Cohabitability and Coarticulation of Life”, Vision Forum Session, Multidisciplinary Environmental Studies in the Humanities (MESH), University of Cologne, Germany, 2 December 2025. <br>
+
 * “Ecofeminist Grand Narratives? How to Coarticulate Worlds with Non-Humans” (in Polish), Nicolaus Copernicus University Toruń, Poland, 22 October 2025. <br>
   
 * "Philosophy in Action: Bruno Latour’s Philosophical Method in a Time of Climate Crisis”, Charles University Philosophy Summer School, Svátý Jan pod Skalou, Czech Republic, 21 September 2025. <br>

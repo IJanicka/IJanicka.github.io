@@ -20,7 +20,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
   <h2>Journal articles</h2>
   
-* <a href="https://ul.qucosa.de/api/qucosa%3A101410/attachment/ATT-0/" target="_blank"> “Ecofeminism for the 99%—Three Theses.” *The Coils of the Serpent. Journal for the Study of Contemporary Power* 15 (2025): 1–17. <br>
+* <a href="https://ul.qucosa.de/api/qucosa%3A101410/attachment/ATT-0/" target="_blank"> “Ecofeminism for the 99%—Three Theses.” *Coils of the Serpent. Journal for the Study of Contemporary Power* 15 (2025): 1–17. <br>
 
 Ecology is fundamental to any form of politics today, including feminism. This piece—something between a manifesto and a prefigurative gesture—offers three theses to establish ecofeminism as one of the key theoretical and practical resources for a new political order in an age of climate crisis. Rather than thinking about humans as representing nature, it proposes to consider humans and nonhumans as “coarticulated demos” that engages together in generative and reparative political practices. It advances a “politics of cohabitability” as a new form of politics and political practice. <br>
 

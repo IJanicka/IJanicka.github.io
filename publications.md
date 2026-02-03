@@ -20,6 +20,10 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
   <h2>Journal articles</h2>
   
+* Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. <br>
+
+In recent years, affective concerns have become increas- ingly central to debates in the environmental humanities. Adding to this conversation, this essay introduces the present symposium by developing the notion of sensorial tactics. With this concept, we’re referring to a deliberate organization of perceptual and affective responses that work in various ways to tackle current socioecological disasters. Engaging each contribution, the essay outlines three such tactics: *affective coping strategies*, *post-extractiv- ist sensibilities*, and *non-human sense-making*. In that way, the essay aims ultimately to widen our vocabularies for affective routes to follow by developing strategies for sensing the world differently. <br>
+
 * <a href="https://ul.qucosa.de/api/qucosa%3A101410/attachment/ATT-0/" target="_blank"> “Ecofeminism for the 99%—Three Theses.” *Coils of the Serpent. Journal for the Study of Contemporary Power* 15 (2025): 1–17. <br>
 
 Ecology is fundamental to any form of politics today, including feminism. This piece—something between a manifesto and a prefigurative gesture—offers three theses to establish ecofeminism as one of the key theoretical and practical resources for a new political order in an age of climate crisis. Rather than thinking about humans as representing nature, it proposes to consider humans and nonhumans as “coarticulated demos” that engages together in generative and reparative political practices. It advances a “politics of cohabitability” as a new form of politics and political practice. <br>

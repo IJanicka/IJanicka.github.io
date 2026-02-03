@@ -22,7 +22,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
   
 * Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. <br>
 
-This is the introduction to the symposium issue with *Theory & Event* entitled "Earth Sensations". <br>
+This is the introduction to the symposium issue with *Theory & Event* entitled <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations" <a/>. <br>
 
 In recent years, affective concerns have become increasingly central to debates in the environmental humanities. Adding to this conversation, this essay introduces the present symposium by developing the notion of sensorial tactics. With this concept, we’re referring to a deliberate organization of perceptual and affective responses that work in various ways to tackle current socioecological disasters. Engaging each contribution, the essay outlines three such tactics: *affective coping strategies*, *post-extractivist sensibilities*, and *non-human sense-making*. In that way, the essay aims ultimately to widen our vocabularies for affective routes to follow by developing strategies for sensing the world differently. <br>
 

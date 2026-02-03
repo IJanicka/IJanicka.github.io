@@ -20,8 +20,9 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
  <h2>Journal special issues</h2>
 
- * Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>, Symposium Issue, *Theory & Event* 29.1.
+ * Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>, Symposium Issue, *Theory & Event* 29.1. <br>
 
+This symposium issue features contributions by Nicole Seymour, Anna Krzywoszynska, Alexis Shotwell, Martin Stravinsky, Jussi Parikka, Paolo Patelli, and May Ee Wong. 
  <br>
   
   <h2>Journal articles</h2>

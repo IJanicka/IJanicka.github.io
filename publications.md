@@ -18,6 +18,12 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </p>
   </div>
 </div>
+ <h2>Journal special issues and edited volumes</h2>
+
+ * Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations" <a/>, Symposium Issue, *Theory & Event* 29.1.
+
+ <br>
+  
   <h2>Journal articles</h2>
   
 * Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. <br>

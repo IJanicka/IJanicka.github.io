@@ -18,7 +18,7 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </p>
   </div>
 </div>
- <h2>Journal special issues and edited volumes</h2>
+ <h2>Journal special issues</h2>
 
  * Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations" <a/>, Symposium Issue, *Theory & Event* 29.1.
 

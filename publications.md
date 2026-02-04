@@ -27,7 +27,7 @@ This symposium issue features contributions by Nicole Seymour, Anna Krzywoszynsk
   
   <h2>Journal articles</h2>
   
-* Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. <br>
+* Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. doi.org/10.1353/tae.2026.a978970 <br>
 
 This is the introduction to the symposium issue with *Theory & Event* entitled <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>. <br>
 

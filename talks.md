@@ -8,7 +8,7 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
-* “Politics of Cohabitability: Ecological Grand Narratives with More-than-Human Worlds” University of Art Linz, Austria, 17 March 2026. <br>
+* “Politics of Cohabitability: Ecological Grand Narratives with More-than-Human Worlds”, University of Art Linz, Austria, 17 March 2026. <br>
   
 * “Planetary Cohabitability and Coarticulation of Life”, HESCOR Vision Forum Session, Multidisciplinary Environmental Studies in the Humanities (MESH), University of Cologne, Germany, 2 December 2025. <br> 
 

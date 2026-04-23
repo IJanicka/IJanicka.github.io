@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Speculative Ecologies: Ecological Storytelling as a Philosophical Gesture”, <a href="https://www.ecologicaltranslation.com" target="_blank"> Ecological Translation<a/>, Goethe Institute Athens, Greece, 29 April 2026. <br>
+
 * “Politics of Cohabitability: Ecological Grand Narratives with More-than-Human Worlds”, University of Arts Linz, Austria, 17 March 2026. <br>
   
 * “Planetary Cohabitability and Coarticulation of Life”, HESCOR Vision Forum Session, Multidisciplinary Environmental Studies in the Humanities (MESH), University of Cologne, Germany, 2 December 2025. <br> 
@@ -59,10 +61,10 @@ permalink: /talks/
 
 **Podcasts and interviews**<br>	
 
+* <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Podcast host: Magdalena Trusinová at <a href="https://open.spotify.com/show/5Vu8y1uboRg3DRelmH9zPI" target="_blank">*Vlákna*</a>, July 2024 <br>
+
 * <a href="https://cetep.eu/news/interview-with-new-research-team-leader-iwona-janicka/" target="_blank"> "Interview with new Research Team Leader: Iwona Janicka"</a>, conducted by Vojtěch Svěrák, CETE-P, June 2024
 <br>
-
-* <a href="https://open.spotify.com/episode/59mVHod5N6SnLYEXxXdtxo" target="_blank"> "Life"</a>. A conversation between Iwona Janicka and <a href="https://www.evredecker.net" target="_blank">Eva von Redecker</a>. Podcast host: Magdalena Trusinová at <a href="https://open.spotify.com/show/5Vu8y1uboRg3DRelmH9zPI" target="_blank">*Vlákna*</a>, July 2024 <br>
 
 <br>
 

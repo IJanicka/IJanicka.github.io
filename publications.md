@@ -20,13 +20,18 @@ The turn of the Millennium demonstrated a fully-fledged revival and fusion of va
 </div>
  <h2>Journal special issues</h2>
 
- * Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>, Symposium Issue, *Theory & Event* 29.1. <br>
+ 
+* Janicka, Iwona and Tobias Skiveren (eds) (2026): <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>, Symposium Issue, *Theory & Event* 29.1. <br>
 
 This symposium issue features contributions by Nicole Seymour, Anna Krzywoszynska, Alexis Shotwell, Martin Stravinsky, Jussi Parikka, Paolo Patelli, and May Ee Wong. 
  <br>
   
   <h2>Journal articles</h2>
   
+* <a href="https://www.liverpooluniversitypress.co.uk/doi/epdf/10.3828/whpge.63881453971820" target="_blank"> “Ecofeminist Grand Narratives: Cohabitability with More-than-Human Worlds.”<a/> *Global Environment. A Journal of Transdisciplinary History* 19.2 (2026): 317–336. doi: 10.3828/whpge.63881453971820. <br>
+
+Small-scale narratives, whether scientific, literary or artistic, are the vehicle for much, if not most, of our contemporary philosophical reflection on climate change. Such stories are essential in allowing us to think through, and within, our circumstances. Yet they often struggle to articulate, let alone to answer, the bigger questions at stake: how to redraw our ontological maps to make the world more habitable for humans and nonhumans alike? How to enact collective political action to create a life-affirming future on our planet? This article makes two, somewhat provocative, claims. Firstly, that the reclamation of grand narratives is vital to produce viable ecological futures, despite metanarratives’ bad reputation. Secondly, that such reclamation has already begun to take place, albeit tacitly, within ecofeminism. This paper sketches the key concepts and parameters of the ecological grand narratives emerging in contemporary ecofeminist thought. So doing, it demonstrates how ecofeminists allow us to rethink our position of being human on the planet and conceive of a more-than-human cohabitability on the grandest – and most effective – scale. <br>
+
 * Janicka, Iwona and Tobias Skiveren <a href="https://muse.jhu.edu/pub/1/article/978970/pdf" target="_blank"> “Introduction: Sensorial Tactics in an Era of Socioecological Collapse.” <a/> *Theory & Event* 29.1 (2026): 83–89. doi.org/10.1353/tae.2026.a978970 <br>
 
 This is the introduction to the symposium issue with *Theory & Event* entitled <a href="https://muse.jhu.edu/issue/56178" target="_blank"> "Earth Sensations. Affects, Sensibilities and Attachments in an Era of Climate Collapse" <a/>. <br>
@@ -34,7 +39,7 @@ This is the introduction to the symposium issue with *Theory & Event* entitled <
 In recent years, affective concerns have become increasingly central to debates in the environmental humanities. Adding to this conversation, this essay introduces the present symposium by developing the notion of sensorial tactics. With this concept, we’re referring to a deliberate organization of perceptual and affective responses that work in various ways to tackle current socioecological disasters. Engaging each contribution, the essay outlines three such tactics: *affective coping strategies*, *post-extractivist sensibilities*, and *non-human sense-making*. In that way, the essay aims ultimately to widen our vocabularies for affective routes to follow by developing strategies for sensing the world differently. <br>
 
 
-* <a href="https://ul.qucosa.de/api/qucosa%3A101410/attachment/ATT-0/" target="_blank"> “Ecofeminism for the 99%—Three Theses.” *Coils of the Serpent. Journal for the Study of Contemporary Power* 15 (2025): 1–17. <br>
+* <a href="https://ul.qucosa.de/api/qucosa%3A101410/attachment/ATT-0/" target="_blank"> “Ecofeminism for the 99%—Three Theses.”</a> *Coils of the Serpent. Journal for the Study of Contemporary Power* 15 (2025): 1–17. <br>
 
 Ecology is fundamental to any form of politics today, including feminism. This piece—something between a manifesto and a prefigurative gesture—offers three theses to establish ecofeminism as one of the key theoretical and practical resources for a new political order in an age of climate crisis. Rather than thinking about humans as representing nature, it proposes to consider humans and nonhumans as “coarticulated demos” that engages together in generative and reparative political practices. It advances a “politics of cohabitability” as a new form of politics and political practice. <br>
 

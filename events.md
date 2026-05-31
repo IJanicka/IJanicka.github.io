@@ -9,7 +9,7 @@ I have organised several international workshops and conferences in European phi
 
 **Organiser of a lecture series on environmental philosophy**<br>
 <i>Climate Dialogues: Ecological Solidarities</i> with Alexis Shotwell & Michael Marder, 19th May 2026. A video recording can be watched here.<br>
-<a href="https://cetep.eu/climate-dialogues-freedom-in-a-time-of-ecological-crisis/" target="_blank"> <i>Climate Dialogues: Freedom in a Time of Ecological Crisis</i> with Wendy Brown & Eva von Redecker<a/>, 22nd May 2025. A video recording can be watched <a href=" https://www.youtube.com/watch?v=kH4O8oE6MDk" target="_blank">here</a>.<br>
+<a href="https://cetep.eu/climate-dialogues-freedom-in-a-time-of-ecological-crisis/" target="_blank"> <i>Climate Dialogues: Freedom in a Time of Ecological Crisis</i> with Wendy Brown & Eva von Redecker<a/>, 22nd May 2025. A video recording can be watched <a href="https://www.youtube.com/watch?v=kH4O8oE6MDk" target="_blank">here</a>.<br>
 
 **Co-organizer of an international workshop in political philosophy**<br>
 <a href="https://cetep.eu/metabolize-prefigure-articulate-practicing-solidarity-in-the-face-of-ecological-crisis-workshop-with-michael-marder-and-alexis-shotwell/" target="_blank"><i>Metabolize, Prefigure, Articulate! Practicing Solidarity in the Face of Ecological Crisis</i>, Workshop with Alexis Shotwell and Michael Marder </a>(co-organised with Cécile Rosat), Center for Environmental and Technology Ethics - Prague (CETE-P), 20 May 2026.<br>

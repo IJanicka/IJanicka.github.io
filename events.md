@@ -7,8 +7,12 @@ permalink: /events/
 
 I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
+**Organiser of a lecture series on environmental philosophy**<br>
+<i>Climate Dialogues: Ecological Solidarities</i> with Alexis Shotwell & Michael Marder, 19th May 2026. A video recording can be watched here.<br>
+<a href="https://cetep.eu/climate-dialogues-freedom-in-a-time-of-ecological-crisis/" target="_blank"> <i>Climate Dialogues: Freedom in a Time of Ecological Crisis</i> with Wendy Brown & Eva von Redecker<a/>, 22nd May 2025. A video recording can be watched <a href=" https://www.youtube.com/watch?v=kH4O8oE6MDk" target="_blank">here</a>.<br>
+
 **Co-organizer of an international workshop in political philosophy**<br>
-<a href="https://cetep.eu/metabolize-prefigure-articulate-practicing-solidarity-in-the-face-of-ecological-crisis-workshop-with-michael-marder-and-alexis-shotwell/" target="_blank"><i>Metabolize, Prefigure, Articulate! Practicing Solidarity in the Face of Ecological Crisis</i>, Workshop with Alexis Shotwell and Michael Marder </a>(co-organised with Cécile Rosat), CETE-P, 20 May 2026.<br>
+<a href="https://cetep.eu/metabolize-prefigure-articulate-practicing-solidarity-in-the-face-of-ecological-crisis-workshop-with-michael-marder-and-alexis-shotwell/" target="_blank"><i>Metabolize, Prefigure, Articulate! Practicing Solidarity in the Face of Ecological Crisis</i>, Workshop with Alexis Shotwell and Michael Marder </a>(co-organised with Cécile Rosat), Center for Environmental and Technology Ethics - Prague (CETE-P), 20 May 2026.<br>
 
 **Co-organizer of a workshop on contemporary feminist ecology**<br>
 <i>Thinking about the Living: Workshop in Contemporary Feminist Political Ecology</i>(with Mateusz Chmurski), keynotes: Fatima Ouassak, Christina Kkona, French Research Center in Humanities and Social Sciences – Prague (CEFRES), Funded by the French Ministry of Higher Education and Research, 20 November 2025. (in French)

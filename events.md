@@ -15,7 +15,7 @@ I have organised several international workshops and conferences in European phi
 <a href="https://cetep.eu/metabolize-prefigure-articulate-practicing-solidarity-in-the-face-of-ecological-crisis-workshop-with-michael-marder-and-alexis-shotwell/" target="_blank"><i>Metabolize, Prefigure, Articulate! Practicing Solidarity in the Face of Ecological Crisis</i>, Workshop with Alexis Shotwell and Michael Marder </a>(co-organised with Cécile Rosat), Center for Environmental and Technology Ethics - Prague (CETE-P), 20 May 2026.<br>
 
 **Co-organizer of a workshop on contemporary feminist ecology**<br>
-<i>Thinking about the Living: Workshop in Contemporary Feminist Political Ecology</i>(with Mateusz Chmurski), keynotes: Fatima Ouassak, Christina Kkona, French Research Center in Humanities and Social Sciences – Prague (CEFRES), Funded by the French Ministry of Higher Education and Research, 20 November 2025. (in French)
+<i>Thinking about the Living: Workshop in Contemporary Feminist Political Ecology</i> (with Mateusz Chmurski), keynotes: Fatima Ouassak, Christina Kkona, French Research Center in Humanities and Social Sciences – Prague (CEFRES), Funded by the French Ministry of Higher Education and Research, 20 November 2025. (in French)
 
 <img src="../images/Poster_Cohabitability_Conference_Oct_2025.png" width="400px" align="right" style="margin: 20px 0px 20px 20px"/>
 **Co-organizer of an international conference in philosophy of ecology & technology**<br>

@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 
-I have organised several international workshops and conferences in European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
+I have organised a number of international workshops and conferences in contemporary European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
 **Organiser of a lecture series on environmental philosophy: <i>Climate Dialogues</i> at CETE-P**<br>
 <a href="https://cetep.eu/climate-dialogues-2026-ecological-solidarities/" target="_blank"><i>Climate Dialogues: Ecological Solidarities</i> with Alexis Shotwell & Michael Marder</a>, 19 May 2026. A video recording can be watched here.<br>

@@ -7,6 +7,10 @@ permalink: /events/
 
 I have organised a number of international workshops and conferences in contemporary European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
+**Co-organiser of the Visegrad Environmental Philosophy Summer School (VEPSS) (2025-)** <br>
+
+<a href="https://vepss.eu" target="_blank">The Visegrad Environmental Philosophy Summer School (VEPSS)</a> brings together international researchers and graduate students who work on diverse issues related to the ongoing ecological crisis. In addition to its focus on philosophy and ethics, VEPSS is keen to include a variety of fields in environmental humanities (such as anthropology, sociology, history, comparative literature or aesthetics) in order to encourage addressing the climate crisis from an interdisciplinary perspective. By taking place in a different Visegrad country each year (Czechia, Poland, Slovakia, Hungary), the summer school aims to tap into the Central and Eastern European potential to renew our thinking about ecology and consider how both the planetary and the regional perspectives can help us tackle the challenges of climate change today.<br>
+
 **Organiser of a lecture series on environmental philosophy: <i>Climate Dialogues</i> at CETE-P**<br>
 <a href="https://cetep.eu/climate-dialogues-2026-ecological-solidarities/" target="_blank"><i>Climate Dialogues: Ecological Solidarities</i> with Alexis Shotwell & Michael Marder</a>, 19 May 2026. A video recording can be watched here.<br>
 <a href="https://cetep.eu/climate-dialogues-freedom-in-a-time-of-ecological-crisis/" target="_blank"> <i>Climate Dialogues: Freedom in a Time of Ecological Crisis</i> with Wendy Brown & Eva von Redecker</a>, 22 May 2025. A video recording can be watched <a href="https://www.youtube.com/watch?v=kH4O8oE6MDk" target="_blank">here</a>.<br>

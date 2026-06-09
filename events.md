@@ -7,7 +7,7 @@ permalink: /events/
 
 I have organised a number of international workshops and conferences in contemporary European philosophy, evironmental humanities and art. Most of them have been generously supported by various institutions and foundations.
 
-**Co-organiser of the Visegrad Environmental Philosophy Summer School (VEPSS) (2025-)** <br>
+**Co-organiser of the Visegrad Environmental Philosophy Summer School (VEPSS) (2025, 2026)** <br>
 
 <a href="https://vepss.eu" target="_blank">The Visegrad Environmental Philosophy Summer School (VEPSS)</a> brings together international researchers and graduate students who work on diverse issues related to the ongoing ecological crisis. In addition to its focus on philosophy and ethics, VEPSS is keen to include a variety of fields in environmental humanities (such as anthropology, sociology, history, comparative literature or aesthetics) in order to encourage addressing the climate crisis from an interdisciplinary perspective. By taking place in a different Visegrad country each year (Czechia (2024), Poland (2025), Slovakia (2026), Hungary (2027)), the summer school aims to tap into the Central and Eastern European potential to renew our thinking about ecology and consider how both the planetary and the regional perspectives can help us tackle the challenges of climate change today.<br>
 

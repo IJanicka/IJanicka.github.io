@@ -72,6 +72,8 @@ permalink: /talks/
 
 **Conference papers** (in the last decade, selected) <br>
   
+* “Ecological Feminisms in Central Europe: Mapping Philosophical Discourses in the Region” together with Monika Rogowska-Stangret (University of Białystok, Poland), *Degrowth: Bridging Green and Just in Central and Eastern Europe*, Jagiellonian University Kraków, Poland,  16-19 June 2026. <br>
+
 * “Cosmopolitical Coarticulations: How to Think More-than-Human Politics of Cohabitation?” (in Polish), *Political Imaginary: Theories, Ideas, Practices* (Wyobraźnia polityczna. Teorie, idee, praktyki), University of Wrocław, Poland, 21-22 October 2024.<br>
 
 * “Ecofeminist Grand Narratives? Cohabitability with More-than-human Worlds”, *Imagining Planetary Health, Well-Being, and Habitability. Perspectives from the Environmental Humanities*, Rachel Carson Center Munich, Germany,  2-4 October 2024.<br>

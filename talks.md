@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* "A Return to Grand Narratives: Repetition and Reclaiming in a Time of Ecological Crises”, *The Legacy of Jacques Derrida: The Politics and Poetics of Return*, University of Silesia in Katowice, Poland, 28-30 September 2026. <br>
+
 * "The Role of Affect in Ecological Grand Narratives”, Conference: *Enacting Emotions in Today’s World*, Évora University, Portugal, 3-4 September 2026. (Keynote) <br>
   
 *   <a href="https://vimeo.com/1212381667?share=copy&fl=sv&fe=ci" target="_blank">“Speculative Ecologies: Ecological Storytelling as a Philosophical Gesture”<a/>, <a href="https://www.ecologicaltranslation.com" target="_blank"> Ecological Translation<a/>, Goethe Institute Athens, Greece, 29 April 2026. <br>

@@ -65,7 +65,8 @@ Polish (native), English (fluent), German (fluent), French (fluent), Danish (adv
 
 **Editorial Boards**
 
-* <a href="https://migratingminds.georgetown.edu" target="_blank"> *Migrating Minds: Journal of Cultural Cosmopolitanism*
+* <a href="https://migratingminds.georgetown.edu" target="_blank"> *Migrating Minds: Journal of Cultural Cosmopolitanism* <br>
+*  <a href="https://journals.sagepub.com/editorial-board/ANA?_gl=11x91b9v_upMQ.._gaNTQ4MTQ1MjEuMTc5MDY3NzkzOA.._ga_60R758KFDGczE3OTA2Nzc5MzgkbzEkZzEkdDE3OTA2Nzc5NTEkajQ3JGwxJGg5MTE5MTE3NDg." target="_blank"> *Anarchist Studies* <br>
 
 **Transdisciplinarity**
 

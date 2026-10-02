@@ -130,7 +130,7 @@ Climate change is challenging our key political concepts. In response to this ch
 
  <h2>Work translated into foreign languages</h2>
 
-* “Écoféminisme pour les 99% : trois thèses”, Les Temps qui restent 10 (July-August 2026), French translation of  “Ecofeminism for the 99%”, translated by Laure Jouanneau-Lopez, Accessible open access <a href="https://lestempsquirestent.org/fr/numeros/numero-10/ecofeminisme-pour-les-99-trois-theses" target="blank">here</a>  <br>
+* “Écoféminisme pour les 99% : trois thèses”, *Les Temps qui restent* 10 (July-August 2026), French translation of  “Ecofeminism for the 99%”, translated by Laure Jouanneau-Lopez, Accessible open access <a href="https://lestempsquirestent.org/fr/numeros/numero-10/ecofeminisme-pour-les-99-trois-theses" target="blank">here</a>  <br>
    
  <h2>Book reviews</h2>
 

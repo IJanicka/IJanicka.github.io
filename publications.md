@@ -128,6 +128,10 @@ Climate change is challenging our key political concepts. In response to this ch
 
 * Vinciane Despret, Iwona Janicka and Stephen Muecke, <a href="https://read.dukeupress.edu/environmental-humanities/article/17/3/705/404422/Animals-Give-Us-a-Body-We-Didn-t-HaveAn-Interview?guestAccessKey=3eaba8f4-21ab-4846-af1c-0c9e017c6909" target="blank"> “Animals Give Us a Body We Didn’t Have. An Interview with Vinciane Despret”<a/> *Environmental Humanities* 17.3 (2025): 705-712. doi.org/10.1215/22011919-11942118  <br>
 
+ <h2>Work translated into foreign languages</h2>
+
+* “Écoféminisme pour les 99% : trois thèses”, Les Temps qui restent 10 (July-August 2026), French translation of  “Ecofeminism for the 99%”, translated by Laure Jouanneau-Lopez, Accessible at https://lestempsquirestent.org/fr/numeros/numero-10/ecofeminisme-pour-les-99-trois-theses <br>
+   
  <h2>Book reviews</h2>
 
 * <a href="../articles/Janicka_Review of Stengers' Virgin Mary_STS_May 2025.pdf" target="_blank">Isabelle Stengers, *Virgin Mary and the Neutrino*,</a> translated by Andrew Goffey (Durham and London: Duke University Press, 2023), *Sciences & Technology Studies* 38.2 (2025): 73–76. doi: 10.23987/sts.155619<br> 

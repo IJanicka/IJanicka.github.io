@@ -130,6 +130,8 @@ Climate change is challenging our key political concepts. In response to this ch
 
  <h2>Work translated into foreign languages</h2>
 
+* <a href="https://czasopisma.isppan.waw.pl/sp/article/view/3575/2758" target="blank"> “Koartykulacja: Jak współtworzyć świat z istotami pozaludzkimi”</a> (Polish translation of “Coarticulation”), *Studia Polityczne* 54.3 (2026): 125–146. <br>
+
 * “Écoféminisme pour les 99% : trois thèses”, *Les Temps qui restent* 10 (July-August 2026), French translation of  “Ecofeminism for the 99%”, translated by Laure Jouanneau-Lopez, Accessible open access <a href="https://lestempsquirestent.org/fr/numeros/numero-10/ecofeminisme-pour-les-99-trois-theses" target="blank">here</a>  <br>
    
  <h2>Book reviews</h2>

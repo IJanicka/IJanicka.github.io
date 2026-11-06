@@ -8,6 +8,8 @@ permalink: /talks/
 
 **Invited talks**<br>	
   
+* “Telling Stories Otherwise: Ecological Grand Narratives and the Role of Art”, *Territories of Uncertainty: Art in an Era of Permanent Crisis*, Academy of Performing Arts in Prague (AMU), 6 November 2026. (Keynote) <br>
+
 * "A Return to Grand Narratives: Repetition and Reclaiming in a Time of Ecological Crises”, *The Legacy of Jacques Derrida: The Politics and Poetics of Return*, University of Silesia in Katowice, Poland, 28-30 September 2026. <br>
 
 * "The Role of Affect in Ecological Grand Narratives”, Conference: *Enacting Emotions in Today’s World*, Évora University, Portugal, 3-4 September 2026. (Keynote) <br>
